@@ -3,600 +3,1561 @@
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/contribute_lv_1000_it.json",
     "total": 1665,
     "index": 300,
-    "id_item": "contribute_lv_1000_it"
+    "id_item": "contribute_lv_1000_it",
+    "english": "contribute",
+    "list_vietnam": [
+      "đóng góp, góp phần"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/control_lv_1000_it.json",
     "total": 1665,
     "index": 301,
-    "id_item": "control_lv_1000_it"
+    "id_item": "control_lv_1000_it",
+    "english": "control",
+    "list_vietnam": [
+      "( control of / over somebody / something ) quyền năng hoặc quyền lực điều khiển, ra lệnh hoặc hạn chế",
+      "sự quản lý; sự hướng dẫn; sự hạn chế",
+      "( control on something ) cách hạn chế hoặc điều chỉnh",
+      "tiêu chuẩn so sánh để xác định kết quả của một thí nghiệm; đối chứng",
+      "các chuyển mạch, cần gạt... mà nhờ đó, một cỗ máy được vận hành hoặc điều chỉnh; bộ điều chỉnh",
+      "nơi phát ra lệnh hoặc nơi tiến hành kiểm tra",
+      "hồn (do bà đồng gọi lên)",
+      "có quyền hành hoặc quyền lực đối với ai/cái gì",
+      "điều chỉnh; điều hoà",
+      "kiểm tra, thử lại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/convert_lv_1000_it.json",
     "total": 1665,
     "index": 302,
-    "id_item": "convert_lv_1000_it"
+    "id_item": "convert_lv_1000_it",
+    "english": "convert",
+    "list_vietnam": [
+      "người cải đạo, người thay đổi tín ngưỡng",
+      "người thay đổi chính kiến",
+      "làm đổi tôn giáo, làm đổi đảng phái",
+      "đổi, biến đổi",
+      "(từ Mỹ,nghĩa Mỹ) biển thủ, thụt (két), tham ô"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cook_lv_1000_it.json",
     "total": 1665,
     "index": 303,
-    "id_item": "cook_lv_1000_it"
+    "id_item": "cook_lv_1000_it",
+    "english": "cook",
+    "list_vietnam": [
+      "người nấu ăn, người làm bếp, cấp dưỡng, anh nuôi",
+      "( to cook something for somebody ) làm (thức ăn) bằng cách đun nóng (nấu, nướng, quay, rán)",
+      "(thông tục) giả mạo, gian lận, khai gian (những khoản chi tiêu...)",
+      "(dùng trong thì tiếp diễn) được sắp đặt; xảy ra do kết quả của một âm mưu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cool_lv_1000_it.json",
     "total": 1665,
     "index": 304,
-    "id_item": "cool_lv_1000_it"
+    "id_item": "cool_lv_1000_it",
+    "english": "cool",
+    "list_vietnam": [
+      "mát mẻ, mát; hơi lạnh, nguội",
+      "trầm tĩnh, điềm tĩnh, bình tĩnh",
+      "lãnh đạm, nhạt nhẽo, thờ ơ, không sốt sắng, không nhiệt tình, không mặn mà, không đằm thắm",
+      "trơ tráo, mặt dạn mày dày, không biết xấu hổ, không biết ngượng",
+      "(thông tục) tròn, gọn (một số tiền)",
+      "khí mát",
+      "chỗ mát mẻ",
+      "làm mát, làm nguội, trở mát, nguội đi",
+      "làm mát, làm giảm (nhiệt tình...); nguôi đi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cope_lv_1000_it.json",
     "total": 1665,
     "index": 305,
-    "id_item": "cope_lv_1000_it"
+    "id_item": "cope_lv_1000_it",
+    "english": "cope",
+    "list_vietnam": [
+      "(tôn giáo) áo lễ",
+      "(nghĩa bóng) bầu, vòm; áo khoác, màn",
+      "nắp khuôn đúc",
+      "(như) coping",
+      "(kỹ thuật) cái chao, cái chụp",
+      "khoác áo lễ (cho giáo sĩ)",
+      "xây vòm",
+      "xây mái (một bức tường)",
+      "( + over ) lồi ra (như) phần trên cùng của tường",
+      "( + with ) đối phó, đương đầu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/copy_lv_1000_it.json",
     "total": 1665,
     "index": 306,
-    "id_item": "copy_lv_1000_it"
+    "id_item": "copy_lv_1000_it",
+    "english": "copy",
+    "list_vietnam": [
+      "bản sao, bản chép lại",
+      "sự sao lại, sự chép lại, sự bắt chước, sự phỏng theo, sự mô phỏng",
+      "bản, cuộn (sách); số (báo)",
+      "(ngành in) bản thảo, bản in",
+      "đề tài để viết (báo)",
+      "kiểu, mẫu (một bức hoạ); kiểu (chữ)",
+      "sao lại, chép lại; bắt chước, phỏng theo, mô phỏng",
+      "quay cóp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/coral_lv_1000_it.json",
     "total": 1665,
     "index": 307,
-    "id_item": "coral_lv_1000_it"
+    "id_item": "coral_lv_1000_it",
+    "english": "coral",
+    "list_vietnam": [
+      "san hô",
+      "đồ chơi bằng san hô (của trẻ con)",
+      "bọc trứng tôm hùm",
+      "đỏ như san hô",
+      "(thuộc) san hô"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/corner_lv_1000_it.json",
     "total": 1665,
     "index": 308,
-    "id_item": "corner_lv_1000_it"
+    "id_item": "corner_lv_1000_it",
+    "english": "corner",
+    "list_vietnam": [
+      "góc (tường, nhà, phố...)",
+      "lối rẽ; khúc quanh",
+      "nơi kín đáo, xó xỉnh; chỗ ẩn náu, chỗ giấu giếm",
+      "nơi, phương",
+      "(thương nghiệp) sự đầu cơ, sự lũng đoạn thị trường",
+      "(thể dục,thể thao) quả phạt góc",
+      "đặt thành góc, làm thành góc",
+      "để vào góc",
+      "dồn vào chân tường, dồn vào thế bí",
+      "mua vét (để đầu cơ, lũng đoạn thị trường)",
+      "vét hàng (để đầu cơ)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/corn_lv_1000_it.json",
     "total": 1665,
     "index": 309,
-    "id_item": "corn_lv_1000_it"
+    "id_item": "corn_lv_1000_it",
+    "english": "corn",
+    "list_vietnam": [
+      "cục chai ở chân",
+      "hạt ngũ cốc",
+      "cây ngũ cốc",
+      "(từ Mỹ,nghĩa Mỹ) ngô, bắp ( (cũng) Indian corn )",
+      "(từ Mỹ,nghĩa Mỹ), (thông tục) rượu ngô",
+      "muối bằng muối hột, muối (thịt...)",
+      "(từ Mỹ,nghĩa Mỹ) viên thành hạt nhỏ",
+      "(từ Mỹ,nghĩa Mỹ) nuôi bằng ngô"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/correct_lv_1000_it.json",
     "total": 1665,
     "index": 310,
-    "id_item": "correct_lv_1000_it"
+    "id_item": "correct_lv_1000_it",
+    "english": "correct",
+    "list_vietnam": [
+      "đúng, chính xác",
+      "đúng đắn, được hợp, phải, phải lối",
+      "sửa, sửa chữa, sửa chữa đúng, hiệu chỉnh",
+      "khiển trách, trách mắng; trừng phạt, trừng trị",
+      "làm mất tác hại (của cái gì)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cost_lv_1000_it.json",
     "total": 1665,
     "index": 311,
-    "id_item": "cost_lv_1000_it"
+    "id_item": "cost_lv_1000_it",
+    "english": "cost",
+    "list_vietnam": [
+      "giá phải trả cho một cái gì; chi phí",
+      "cái được dùng, cần đến hoặc cho để đạt được cái gì; sự cố gắng, sự mất mát hoặc hy sinh; sự hao phí",
+      "( costs ) (pháp lý) án phí",
+      "có thể mua được với giá là; yêu cầu phải trả tiền là",
+      "đòi hỏi",
+      "dẫn đến sự mất mát (cái gì)",
+      "(thương nghiệp) ước tính giá phải trả cho một mặt hàng hoặc dịch vụ trên cơ sở các chi phí để làm ra hoặc thực hiện nó",
+      "tốn kém cho ai"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cotton_lv_1000_it.json",
     "total": 1665,
     "index": 312,
-    "id_item": "cotton_lv_1000_it"
+    "id_item": "cotton_lv_1000_it",
+    "english": "cotton",
+    "list_vietnam": [
+      "bông",
+      "cây bông",
+      "chỉ, sợi",
+      "vải bông",
+      "hoà hợp, ăn ý",
+      "yêu, quyến luyến, ý hợp tâm đầu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/could_lv_1000_it.json",
     "total": 1665,
     "index": 313,
-    "id_item": "could_lv_1000_it"
+    "id_item": "could_lv_1000_it",
+    "english": "could",
+    "list_vietnam": [
+      "thời quá khứ của can",
+      "chỉ sự cho phép",
+      "thể hiện yêu cầu",
+      "thể hiện kết quả",
+      "bày tỏ khả năng",
+      "gợi lên đề nghị"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/country_lv_1000_it.json",
     "total": 1665,
     "index": 314,
-    "id_item": "country_lv_1000_it"
+    "id_item": "country_lv_1000_it",
+    "english": "country",
+    "list_vietnam": [
+      "nước, quốc gia",
+      "đất nước, tổ quốc, quê hương, xứ sở",
+      "nhân dân (một nước)",
+      "vùng, xứ, miền; (nghĩa bóng) địa hạt, lĩnh vực",
+      "( số ít) nông thôn, thôn dã"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/count_lv_1000_it.json",
     "total": 1665,
     "index": 315,
-    "id_item": "count_lv_1000_it"
+    "id_item": "count_lv_1000_it",
+    "english": "count",
+    "list_vietnam": [
+      "bá tước ở Pháp hoặc ý (ngang hàng với earl ở Anh)",
+      "hành động đếm; sự đếm; số đạt được sau khi đếm; tổng số đếm được",
+      "( the count ) sự tuyên bố ai bị đo ván (quyền Anh)",
+      "(pháp lý) bất cứ vi phạm nào trong số những vi phạm mà một người bị buộc tội; điểm buộc tội",
+      "sự hoãn họp (khi chỉ có dưới 40 nghị viên có mặt) (nghị viện Anh) ( (cũng) count-out )",
+      "vấn đề được đưa ra để thảo luận hoặc tranh cãi",
+      "đếm; tính",
+      "tính tổng số của cái gì; cộng",
+      "kể cả, gồm cả, tính đến, kể đến",
+      "có giá trị; đáng quan tâm",
+      "coi là, coi như, cho là"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/course_lv_1000_it.json",
     "total": 1665,
     "index": 316,
-    "id_item": "course_lv_1000_it"
+    "id_item": "course_lv_1000_it",
+    "english": "course",
+    "list_vietnam": [
+      "tiến trình, dòng; quá trình diễn biến",
+      "sân chạy đua, vòng chạy đua; trường đua ngựa ( (cũng) race course )",
+      "hướng, chiều hướng; đường đi",
+      "cách cư xử, cách giải quyết; đường lối, con đường ( (nghĩa bóng))",
+      "bất cứ món riêng biệt nào của bữa ăn (xúp, tráng miệng chẳng hạn)",
+      "loạt; khoá; đợt; lớp",
+      "hàng gạch, hàng đá",
+      "( số nhiều) đạo đức, tư cách",
+      "( số nhiều) kỳ hành kinh",
+      "săn đuổi (thỏ)",
+      "cho (ngựa) chạy",
+      "chạy",
+      "chảy",
+      "(thơ ca) ngựa chiến; con tuấn mã"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cover_lv_1000_it.json",
     "total": 1665,
     "index": 317,
-    "id_item": "cover_lv_1000_it"
+    "id_item": "cover_lv_1000_it",
+    "english": "cover",
+    "list_vietnam": [
+      "vỏ, vỏ bọc, cái bọc ngoài; bìa sách; phong bì",
+      "vung, nắp",
+      "lùm cây, bụi rậm",
+      "chỗ núp, chỗ trốn, chỗ trú",
+      "màn che, lốt, mặt nạ ( (nghĩa bóng))",
+      "bộ đồ ăn cho một người (ở bàn ăn)",
+      "(thương nghiệp) tiền bảo chứng",
+      "che, phủ, bao phủ, bao trùm, bao bọc",
+      "mặc quần áo, đội mũ",
+      "(quân sự) che chở, bảo vệ, yểm hộ; khống chế, kiểm soát",
+      "giấu, che giấu, che đậy",
+      "bao gồm, bao hàm, gồm",
+      "trải ra",
+      "đi được",
+      "đủ để bù đắp lại được, đủ để trả",
+      "nhằm, chĩa vào (ai)",
+      "ấp (trứng)",
+      "(động vật học) phủ (cái), nhảy (cái)",
+      "(báo chí) theo dõi hoặc dự để lấy tin",
+      "bảo hiểm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cow_lv_1000_it.json",
     "total": 1665,
     "index": 318,
-    "id_item": "cow_lv_1000_it"
+    "id_item": "cow_lv_1000_it",
+    "english": "cow",
+    "list_vietnam": [
+      "bò cái",
+      "voi cái; tê giác cái; cá voi cái; chó biển cái",
+      "doạ nạt, thị uy, làm cho sợ hãi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crazy_lv_1000_it.json",
     "total": 1665,
     "index": 319,
-    "id_item": "crazy_lv_1000_it"
+    "id_item": "crazy_lv_1000_it",
+    "english": "crazy",
+    "list_vietnam": [
+      "( to be crazy about somebody / something ) quá say mê",
+      "điên dại",
+      "ngu xuẩn",
+      "làm bằng những miếng không đều (lối đi, sàn nhà, mền bông...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crease_lv_1000_it.json",
     "total": 1665,
     "index": 320,
-    "id_item": "crease_lv_1000_it"
+    "id_item": "crease_lv_1000_it",
+    "english": "crease",
+    "list_vietnam": [
+      "nếp trên vải, giấy... do bị vò nhàu, gấp hoặc bị là; nếp nhăn, nếp gấp, đường li",
+      "vết nhăn trên da, nhất là ở mặt",
+      "(trong môn cricket) vạch trắng kẻ ở hai đầu sân để đánh dấu vị trí đứng của cầu thủ phát bóng và cầu thủ chặn bóng",
+      "làm nhàu; gấp nếp",
+      "nhàu; có nếp gấp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/create_lv_1000_it.json",
     "total": 1665,
     "index": 321,
-    "id_item": "create_lv_1000_it"
+    "id_item": "create_lv_1000_it",
+    "english": "create",
+    "list_vietnam": [
+      "tạo, tạo nên, tạo ra, tạo thành, sáng tạo",
+      "gây ra, làm",
+      "phong tước",
+      "(sân khấu) đóng lần đầu tiên",
+      "(từ lóng) làm rối lên, làn nhắng lên; hối hả chạy ngược chạy xuôi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/creative_lv_1000_it.json",
     "total": 1665,
     "index": 322,
-    "id_item": "creative_lv_1000_it"
+    "id_item": "creative_lv_1000_it",
+    "english": "creative",
+    "list_vietnam": [
+      "sáng tạo"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/creep_lv_1000_it.json",
     "total": 1665,
     "index": 323,
-    "id_item": "creep_lv_1000_it"
+    "id_item": "creep_lv_1000_it",
+    "english": "creep",
+    "list_vietnam": [
+      "( số nhiều) sự ghê rợn, sự rùng mình, sự sởn gáy, sự khiếp đảm, sự hãi hùng",
+      "sự bò, sự trườn",
+      "lỗ hốc (trong hàng rào...)",
+      "(địa lý,địa chất) sự lở (đá...)",
+      "(vật lý) sự dão",
+      "bò, trườn",
+      "đi rón rén, lén, lẻn ( (nghĩa đen) & (nghĩa bóng))",
+      "bò; leo (cây leo)",
+      "có cảm giác râm ran như kiến bò, rùng mình sởn gai ốc",
+      "(nghĩa bóng) luồn cúi, luồn lọt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crimson_lv_1000_it.json",
     "total": 1665,
     "index": 324,
-    "id_item": "crimson_lv_1000_it"
+    "id_item": "crimson_lv_1000_it",
+    "english": "crimson",
+    "list_vietnam": [
+      "đỏ thẫm",
+      "màu đỏ thẫm, màu đỏ thắm",
+      "(làm cho ai/cái gì) trở nên đỏ thẫm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crop_lv_1000_it.json",
     "total": 1665,
     "index": 325,
-    "id_item": "crop_lv_1000_it"
+    "id_item": "crop_lv_1000_it",
+    "english": "crop",
+    "list_vietnam": [
+      "vụ, mùa; thu hoạch của một vụ",
+      "( số nhiều) cây trồng",
+      "cụm, nhóm, loạt, tập",
+      "(động vật học) diều (chim)",
+      "tay cầm (của roi da)",
+      "sự cắt tóc ngắn",
+      "bộ da thuộc",
+      "đoạn cắt bỏ đầu, khúc cắt bỏ đầu",
+      "thịt bả vai (bò ngựa)",
+      "gặm (cỏ)",
+      "gặt; hái",
+      "gieo, trồng (ruộng đất)",
+      "xén, hớt, cắt ngắn (tai, đuôi, tóc, mép sách, hàng rào...)",
+      "thu hoạch"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cross_lv_1000_it.json",
     "total": 1665,
     "index": 326,
-    "id_item": "cross_lv_1000_it"
+    "id_item": "cross_lv_1000_it",
+    "english": "cross",
+    "list_vietnam": [
+      "cây thánh giá; dấu chữ thập (làm bằng tay phải để cầu khẩn hoặc tỏ vẻ thành kính đối với Chúa); đài thập ác (đài kỷ niệm trên có chữ thập)",
+      "đạo Cơ đốc",
+      "dấu chữ thập, hình chữ thập",
+      "dấu gạch ngang ở chữ cái ( (ở chữ đ, t chẳng hạn))",
+      "nỗi đau khổ, nỗi thống khổ; bước thử thách; sự gian nan",
+      "bội tinh",
+      "sự tạp giao; vật lai giống",
+      "sự pha tạp",
+      "(từ lóng) sự gian lận, sự lừa đảo, sự ăn cắp",
+      "chéo nhau, vắt ngang",
+      "(thông tục) bực mình, cáu, gắt",
+      "đối, trái ngược, ngược lại",
+      "lai, lai giống",
+      "(từ lóng) bất lương, man trá; kiếm được bằng những thủ đoạn bất lương",
+      "qua, đi qua, vượt, đi ngang qua; đưa (ai cái gì...) đi ngang qua",
+      "gạch ngang, gạch chéo, xoá",
+      "xếp hay đặt cái gì chéo qua hoặc chồng lên một cái gì cùng chủng loại; đặt chéo nhau; bắt chéo",
+      "gặp mặt, chạm mặt (một người ở ngoài đường)",
+      "cưỡi (ngựa)",
+      "viết đè lên (một chữ, một trang đã viết)",
+      "cản trở, gây trở ngại",
+      "tạp giao, lai giống (động vật)",
+      "vượt qua, đi qua",
+      "gặp nhau, giao nhau, chéo ngang, chéo nhau"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crowd_lv_1000_it.json",
     "total": 1665,
     "index": 327,
-    "id_item": "crowd_lv_1000_it"
+    "id_item": "crowd_lv_1000_it",
+    "english": "crowd",
+    "list_vietnam": [
+      "đám đông",
+      "( the crowd ) quần chúng",
+      "(thông tục) bọn, lũ, nhóm, tụi, cánh",
+      "đống, vô số",
+      "crowd of sail (hàng hải) sự căng hết buồm, sự căng nhiều buồm",
+      "xúm lại, tụ tập, đổ xô đến",
+      "( + into , through ) len vào, chen vào, len qua",
+      "(hàng hải) đi hết tốc độ, căng hết buồm mà đi",
+      "làm cho chật ních, chồng chất, nhét đầy, nhồi nhét",
+      "tụ tập, tập hợp",
+      "(từ Mỹ,nghĩa Mỹ) dùng áp lực đối với (ai), cưỡng bách, thúc giục; quấy rầy",
+      "(thể dục,thể thao) làm trở ngại, cản (đối phương)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cry_lv_1000_it.json",
     "total": 1665,
     "index": 328,
-    "id_item": "cry_lv_1000_it"
+    "id_item": "cry_lv_1000_it",
+    "english": "cry",
+    "list_vietnam": [
+      "tiếng kêu, tiếng la, tiếng hò hét, tiếng hò reo (vì đau đớn, sợ, mừng rỡ...)",
+      "tiếng rao hàng ngoài phố",
+      "lời hô, lời kêu gọi",
+      "sự khóc, tiếng khóc",
+      "dư luận quần chúng, tiếng nói quần chúng",
+      "tiếng chó sủa ( (nghĩa đen) & (nghĩa bóng))",
+      "kêu, gào, thét, la hét",
+      "khóc, khóc lóc",
+      "rao"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cupboard_lv_1000_it.json",
     "total": 1665,
     "index": 329,
-    "id_item": "cupboard_lv_1000_it"
+    "id_item": "cupboard_lv_1000_it",
+    "english": "cupboard",
+    "list_vietnam": [
+      "bộ giá đỡ có một hoặc nhiều cửa ở phía mặt (hoặc xây chìm vào tường) để đựng thức ăn, quần áo, đĩa; tủ ly"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/curb_lv_1000_it.json",
     "total": 1665,
     "index": 330,
-    "id_item": "curb_lv_1000_it"
+    "id_item": "curb_lv_1000_it",
+    "english": "curb",
+    "list_vietnam": [
+      "dây cằm (ngựa)",
+      "sự kiềm chế, sự nén lại, sự kìm lại; sự hạn chế",
+      "như kerb",
+      "(thú y học) chỗ sưng, cục u (ở chân ngựa)",
+      "buộc dây cằm (vào ngựa); điều khiển (ngựa) bằng dây cằm",
+      "kiềm chế, nén lại; hạn chế",
+      "xây thành cho (giếng); xây lề cho (đường...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/current_lv_1000_it.json",
     "total": 1665,
     "index": 331,
-    "id_item": "current_lv_1000_it"
+    "id_item": "current_lv_1000_it",
+    "english": "current",
+    "list_vietnam": [
+      "dòng (nước); luồng (gió, không khí); (điện học) dòng điện",
+      "dòng, luồng, chiều, hướng (dư luận, tư tưởng...)",
+      "hiện hành, đang lưu hành",
+      "phổ biến, thịnh hành, thông dụng",
+      "hiện thời, hiện nay, này"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/curve_lv_1000_it.json",
     "total": 1665,
     "index": 332,
-    "id_item": "curve_lv_1000_it"
+    "id_item": "curve_lv_1000_it",
+    "english": "curve",
+    "list_vietnam": [
+      "đường cong, đường vòng, chỗ quanh co",
+      "cong, uốn cong, bẻ cong, làm vênh"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cushion_lv_1000_it.json",
     "total": 1665,
     "index": 333,
-    "id_item": "cushion_lv_1000_it"
+    "id_item": "cushion_lv_1000_it",
+    "english": "cushion",
+    "list_vietnam": [
+      "cái đệm, cái nệm",
+      "đường biên bàn bi a",
+      "cái độn tóc",
+      "(kỹ thuật) miếng đệm đầu trục, cuxinê",
+      "(cơ khí) hơi đệm (hơi còn lại trong xylanh để đệm pittông)",
+      "thịt mông (lợn...)",
+      "kẹo hình nệm",
+      "lót nệm",
+      "đặt ngồi trên nệm; che bằng nệm; (nghĩa bóng) nâng niu, chiều chuộng",
+      "làm nhẹ bớt, làm yếu đi",
+      "dập đi; dìm đi; làm cho yếu đi (lời kêu nài, than vãn...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cut_lv_1000_it.json",
     "total": 1665,
     "index": 334,
-    "id_item": "cut_lv_1000_it"
+    "id_item": "cut_lv_1000_it",
+    "english": "cut",
+    "list_vietnam": [
+      "sự cắt, sự đốn, sự chặt, sự thái; nhát chém, nhát thái, vết đứt, vết xẻ, vết mổ",
+      "sự giảm, sự hạ, sự cắt bớt",
+      "vật cắt ra, miêng; đoạn cắt đi (của một vở kịch, cuốn tiểu thuyết...)",
+      "kiểu cắt, kiểu may",
+      "(thể dục,thể thao) sự cắt bóng, sự cúp bóng",
+      "nhánh đường xe lửa; kênh đào",
+      "bản khắc gỗ ( (cũng) wood cut )",
+      "lời nói làm tổn thương tình cảm, hành động làm tổn thương tình cảm",
+      "sự phớt lờ",
+      "(sân khấu) khe hở để kéo phông",
+      "cắt, chặt, chém, thái, xén, xẻo, hớt, xẻ, đào, khắc, gọt, chạm",
+      "chia cắt, cắt đứt",
+      "cắt nhau, gặp nhau, giao nhau",
+      "giảm, hạ, cắt bớt",
+      "(nghĩa bóng) làm đau lòng, chạm tự ái, làm mếch lòng, làm tổn thương tình cảm",
+      "(từ lóng) làm đau đớn, làm buốt, cắt da cắt thịt (gió, rét...)",
+      "cắt, may (quần áo)",
+      "làm, thi hành",
+      "(thể dục,thể thao) cắt, cúp (bóng)",
+      "(đánh bài) đào (cổ bài)",
+      "phớt lờ, làm như không biết (ai)",
+      "không dự, trốn, chuồn (một buổi họp...)",
+      "mọc (răng)",
+      "cắt, gọt, chặt, thái...",
+      "đi tắt",
+      "(từ lóng) chuồn, trốn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/daily_lv_1000_it.json",
     "total": 1665,
     "index": 335,
-    "id_item": "daily_lv_1000_it"
+    "id_item": "daily_lv_1000_it",
+    "english": "daily",
+    "list_vietnam": [
+      "hằng ngày",
+      "báo ra hàng ngày; nhật báo",
+      "(thông tục) người đàn bà giúp việc hằng ngày đến nhà"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/damage_lv_1000_it.json",
     "total": 1665,
     "index": 336,
-    "id_item": "damage_lv_1000_it"
+    "id_item": "damage_lv_1000_it",
+    "english": "damage",
+    "list_vietnam": [
+      "( damage to something ) sự thiệt hại; sự hư hại",
+      "( damages ) tiền bồi thường thiệt hại",
+      "(từ lóng) giá tiền",
+      "làm hư hại, làm hỏng, gây thiệt hại, gây tổn hại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dance_lv_1000_it.json",
     "total": 1665,
     "index": 337,
-    "id_item": "dance_lv_1000_it"
+    "id_item": "dance_lv_1000_it",
+    "english": "dance",
+    "list_vietnam": [
+      "sự nhảy múa; sự khiêu vũ",
+      "bài nhạc nhảy; điệu nhạc khiêu vũ",
+      "buổi liên hoan khiêu vũ",
+      "nhảy múa, khiêu vũ",
+      "nhảy lên, rộn lên; nhún nhảy, rung rinh, bập bềnh, rập rình",
+      "nhảy",
+      "làm cho nhảy múa",
+      "tung tung nhẹ, nhấc lên nhấc xuống"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/danger_lv_1000_it.json",
     "total": 1665,
     "index": 338,
-    "id_item": "danger_lv_1000_it"
+    "id_item": "danger_lv_1000_it",
+    "english": "danger",
+    "list_vietnam": [
+      "sự nguy hiểm, mối hiểm nghèo",
+      "nguy cơ, mối đe doạ",
+      "(ngành đường sắt) tín hiệu báo nguy"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dark_lv_1000_it.json",
     "total": 1665,
     "index": 339,
-    "id_item": "dark_lv_1000_it"
+    "id_item": "dark_lv_1000_it",
+    "english": "dark",
+    "list_vietnam": [
+      "tối, tối tăm, tối mò; mù mịt, u ám",
+      "ngăm ngăm đen, đen huyền",
+      "thẫm sẫm (màu)",
+      "mờ mịt, mơ hồ, không rõ ràng, không minh bạch",
+      "tối tăm, dốt nát, ngu dốt",
+      "bí mật, kín đáo, không ai hay biết gì, không cho ai biết điều gì",
+      "buồn rầu, chán nản, bi quan",
+      "đen tối, ám muội; ghê tởm, nham hiểm, cay độc",
+      "bóng tối, chỗ tối; lúc đêm tối, lúc trời tối",
+      "(nghệ thuật) chỗ tối; màu tối (trên một bức hoạ)",
+      "sự tối tăm, sự ngu dốt; sự không biết gì"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/daydream_lv_1000_it.json",
     "total": 1665,
     "index": 340,
-    "id_item": "daydream_lv_1000_it"
+    "id_item": "daydream_lv_1000_it",
+    "english": "daydream",
+    "list_vietnam": [
+      "sự mơ mộng; mộng tưởng hão huyền"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/day_lv_1000_it.json",
     "total": 1665,
     "index": 341,
-    "id_item": "day_lv_1000_it"
+    "id_item": "day_lv_1000_it",
+    "english": "day",
+    "list_vietnam": [
+      "ban ngày",
+      "thời gian 24 giờ; ngày",
+      "( số nhiều) thời kỳ, thời đại, thời buổi",
+      "ngày thi đấu, ngày giao chiến; sự chiến thắng, sự thắng lợi",
+      "(địa lý,địa chất) mặt ngoài; vỉa nằm sát mặt đất"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dead_lv_1000_it.json",
     "total": 1665,
     "index": 342,
-    "id_item": "dead_lv_1000_it"
+    "id_item": "dead_lv_1000_it",
+    "english": "dead",
+    "list_vietnam": [
+      "chết (người, vật, cây cối)",
+      "tắt, tắt ngấm",
+      "chết, không hoạt động; không sinh sản; hết hiệu lực; không dùng được nữa",
+      "tê cóng, tê bại, tê liệt",
+      "xỉn, không bóng (màu, vàng...); đục, không vang (âm thanh...)",
+      "không màng đến, không biết đến, chai điếng, điếc đặc không chịu nghe",
+      "thình lình, hoàn toàn",
+      "(điện học) không có thế hiệu",
+      "( the dead ) những người đã chết, những người đã khuất",
+      "giữa",
+      "đúng vào, ngay vào, thẳng vào",
+      "hoàn toàn",
+      "hằn lại, sững lại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deal_lv_1000_it.json",
     "total": 1665,
     "index": 343,
-    "id_item": "deal_lv_1000_it"
+    "id_item": "deal_lv_1000_it",
+    "english": "deal",
+    "list_vietnam": [
+      "gỗ thông hoặc tùng",
+      "sự thoả thuận (nhất là trong kinh doanh)",
+      "(trong trò chơi) sự chia bài",
+      "( to deal something out ; to deal something to somebody ) chia (bài)",
+      "( to deal somebody / something a blow ; to deal a blow to somebody / something ) nện cho ai/cái gì một đòn; gây cho ai thất bại, khiến ai choáng váng",
+      "( to deal well , badly ... by / with somebody ) đối xử tốt, tệ với ai",
+      "( to deal in something ) bán cái gì, buôn bán cái gì; quan tâm đến cái gì",
+      "( to deal somebody in ) trao bài cho (một người mới nhập cuộc chơi)",
+      "( to deal something out ) phân phát, phân phối",
+      "( to deal with somebody / something ) đối phó, giải quyết, xử lý",
+      "( to deal with somebody / something ) giao du, giao thiệp",
+      "( to deal with something ) bàn về cái gì, đề cập"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dear_lv_1000_it.json",
     "total": 1665,
     "index": 344,
-    "id_item": "dear_lv_1000_it"
+    "id_item": "dear_lv_1000_it",
+    "english": "dear",
+    "list_vietnam": [
+      "thân, thân yêu, thân mến, yêu quý",
+      "kính thưa, thưa; thân mến (viết trong thư)",
+      "đáng yêu, đáng mến",
+      "thiết tha, chân tình",
+      "mắc mỏ, đắt đỏ",
+      "người thân mến, người yêu quý",
+      "(thông tục) người đáng yêu, người đáng quý; vật đáng yêu, vật đáng quý",
+      "trời ơi!, than ôi! ( (cũng) dear me )",
+      "tha thiết, nồng nàn, khắng khít",
+      "trả giá đắt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/death_lv_1000_it.json",
     "total": 1665,
     "index": 345,
-    "id_item": "death_lv_1000_it"
+    "id_item": "death_lv_1000_it",
+    "english": "death",
+    "list_vietnam": [
+      "sự chết; cái chết",
+      "sự tiêu tan, sự tan vỡ, sự kết liễu, sự chấm dứt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/debit_lv_1000_it.json",
     "total": 1665,
     "index": 346,
-    "id_item": "debit_lv_1000_it"
+    "id_item": "debit_lv_1000_it",
+    "english": "debit",
+    "list_vietnam": [
+      "sự ghi nợ",
+      "món nợ khoản nợ",
+      "(kế toán) bên nợ",
+      "ghi (một món nợ) vào sổ nợ ( debit against , to ) ghi (một món nợ) vào sổ ai"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/decide_lv_1000_it.json",
     "total": 1665,
     "index": 347,
-    "id_item": "decide_lv_1000_it"
+    "id_item": "decide_lv_1000_it",
+    "english": "decide",
+    "list_vietnam": [
+      "giải quyết, phân xử",
+      "quyết định",
+      "lựa chọn, quyết định chọn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/decimal_lv_1000_it.json",
     "total": 1665,
     "index": 348,
-    "id_item": "decimal_lv_1000_it"
+    "id_item": "decimal_lv_1000_it",
+    "english": "decimal",
+    "list_vietnam": [
+      "(toán học) thập phân",
+      "(toán học) phân số thập phân"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/declare_lv_1000_it.json",
     "total": 1665,
     "index": 349,
-    "id_item": "declare_lv_1000_it"
+    "id_item": "declare_lv_1000_it",
+    "english": "declare",
+    "list_vietnam": [
+      "tuyên bố",
+      "công bố",
+      "bày tỏ, trình bày, biểu thị",
+      "(thương nghiệp) khai (hàng hoá để đóng thuế)",
+      "(đánh bài) xướng lên"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deep_lv_1000_it.json",
     "total": 1665,
     "index": 350,
-    "id_item": "deep_lv_1000_it"
+    "id_item": "deep_lv_1000_it",
+    "english": "deep",
+    "list_vietnam": [
+      "sâu",
+      "khó lường, khó hiểu, bí ẩn, thâm hiểm",
+      "sâu xa, sâu sắc, sâu kín, thâm trầm",
+      "ngập sâu vào, mải mê, miệt mài, đắm mình vào",
+      "trầm",
+      "sẫm, thẫm, thắm (màu sắc)",
+      "vô cùng, hết sức; say (ngủ), nặng (tội), dày đặc (bóng tối)...",
+      "(từ lóng) khôn ngoan, láu, ranh mãnh",
+      "sâu",
+      "muộn, khuya",
+      "nhiều",
+      "(thơ ca) ( the deep ) biển cả",
+      "( (thường) số nhiều) đáy sâu (của đại dương)",
+      "vực thẳm, vực sâu",
+      "(nghĩa bóng) nơi sâu kín, đáy lòng, thâm tâm",
+      "giữa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/defend_lv_1000_it.json",
     "total": 1665,
     "index": 351,
-    "id_item": "defend_lv_1000_it"
+    "id_item": "defend_lv_1000_it",
+    "english": "defend",
+    "list_vietnam": [
+      "( to defend somebody / something against / from somebody / something ) bảo vệ ai/cái gì khỏi bị hại",
+      "ủng hộ; bênh vực",
+      "(thể thao) phòng ngự",
+      "(về một nhà vô địch thể thao) tham gia cuộc thi để giữ địa vị của mình",
+      "là luật sư bào chữa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/define_lv_1000_it.json",
     "total": 1665,
     "index": 352,
-    "id_item": "define_lv_1000_it"
+    "id_item": "define_lv_1000_it",
+    "english": "define",
+    "list_vietnam": [
+      "định nghĩa (một từ...)",
+      "định rõ, vạch rõ (hình dạng, ranh giới...)",
+      "xác định đặc điểm, chỉ rõ tính chất"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/degree_lv_1000_it.json",
     "total": 1665,
     "index": 353,
-    "id_item": "degree_lv_1000_it"
+    "id_item": "degree_lv_1000_it",
+    "english": "degree",
+    "list_vietnam": [
+      "(viết tắt) là deg đơn vị đo nhiệt; độ",
+      "mức độ, trình độ",
+      "mức trong một cung bậc nghiêm ngặt",
+      "địa vị trong xã hội",
+      "học vị; bằng cấp",
+      "đơn vị đo góc; độ",
+      "(toán học) bậc",
+      "(ngôn ngữ học) cấp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deliver_lv_1000_it.json",
     "total": 1665,
     "index": 354,
-    "id_item": "deliver_lv_1000_it"
+    "id_item": "deliver_lv_1000_it",
+    "english": "deliver",
+    "list_vietnam": [
+      "( to deliver something to somebody / something ) phân phát; giao",
+      "đọc, phát biểu, giãi bày, bày tỏ",
+      "giáng, ném, phóng, bắn ra; mở (cuộc tấn công)",
+      "( to deliver somebody from something ) cứu ai ra khỏi cái gì; giải thoát",
+      "thực hiện (một mức độ thành tựu nào đó)",
+      "giúp một người mẹ sinh đẻ; đỡ đẻ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/demand_lv_1000_it.json",
     "total": 1665,
     "index": 355,
-    "id_item": "demand_lv_1000_it"
+    "id_item": "demand_lv_1000_it",
+    "english": "demand",
+    "list_vietnam": [
+      "sự đòi hỏi, sự yêu cầu; nhu cầu",
+      "( số nhiều) những sự đòi hỏi cấp bách (đối với thì giờ, túi tiền... của ai)",
+      "đòi hỏi, yêu cầu; cần, cần phải",
+      "hỏi, hỏi gặng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/demonstrate_lv_1000_it.json",
     "total": 1665,
     "index": 356,
-    "id_item": "demonstrate_lv_1000_it"
+    "id_item": "demonstrate_lv_1000_it",
+    "english": "demonstrate",
+    "list_vietnam": [
+      "( to demonstrate something to somebody ) chứng minh, giải thích",
+      "là điển hình của cái gì; chứng tỏ",
+      "biểu hiện cái gì bằng hành động; biểu thị",
+      "( to demonstrate in favour of / against somebody / something ) tham gia một cuộc tập dượt công khai.. để ủng hộ hoặc phản đối; biểu tình",
+      "(quân sự) thao diễn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deny_lv_1000_it.json",
     "total": 1665,
     "index": 357,
-    "id_item": "deny_lv_1000_it"
+    "id_item": "deny_lv_1000_it",
+    "english": "deny",
+    "list_vietnam": [
+      "nói rằng (điều gì) không có thật; phủ nhận",
+      "( to deny something to somebody ) từ chối hoặc ngăn không cho ai lấy (cái mà người ta hỏi xin hoặc muốn có)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/depend_lv_1000_it.json",
     "total": 1665,
     "index": 358,
-    "id_item": "depend_lv_1000_it"
+    "id_item": "depend_lv_1000_it",
+    "english": "depend",
+    "list_vietnam": [
+      "( to depend on something ) được quyết định bởi cái gì; sinh ra từ cái gì; phụ thuộc",
+      "( to depend on somebody / something for something ) cần ai/cái gì cho một mục đích cụ thể; thu được tiền hoặc sự trợ giúp từ ai/cái gì",
+      "( to depend on / upon somebody / something ) tin tưởng, tin cậy"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deplete_lv_1000_it.json",
     "total": 1665,
     "index": 359,
-    "id_item": "deplete_lv_1000_it"
+    "id_item": "deplete_lv_1000_it",
+    "english": "deplete",
+    "list_vietnam": [
+      "tháo hết ra, rút hết ra, xả hết ra; làm rỗng không",
+      "làm suy yếu, làm kiệt sức",
+      "(y học) làm tan máu; làm tiêu dịch"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deposit_lv_1000_it.json",
     "total": 1665,
     "index": 360,
-    "id_item": "deposit_lv_1000_it"
+    "id_item": "deposit_lv_1000_it",
+    "english": "deposit",
+    "list_vietnam": [
+      "khoản tiền gửi vào một tài khoản (ở ngân hàng)",
+      "việc chi trả một phần của một khoản tiền lớn hơn, phần còn lại sẽ được trả sau; tiền đặt cọc",
+      "món tiền mà ai trả trước, trong trường hợp anh ta làm hỏng hoặc làm mất cái mà anh ta đang thuê; tiền ký quỹ",
+      "lớp chất đọng lại do một chất lỏng, dòng sông...",
+      "(địa lý,địa chất) lớp chất nằm sâu trong lòng đất, được tích tụ một cách tự nhiên; trầm tích",
+      "gửi (tiền) vào ngân hàng để lấy lãi",
+      "trao vật gì quý giá cho ai để giữ ở một nơi an toàn; ký thác",
+      "chi trả cái gì coi như một phần của một khoản tiền lớn hơn, phần còn lại sẽ trả sau; đặt cọc",
+      "trả một món tiền để đảm bảo cho trường hợp vật thuê bị mất hoặc hư hỏng; ký quỹ",
+      "(nhất là nói về chất lỏng hoặc một con sông) làm cho (bùn, phù sa) lắng xuống",
+      "để hoặc đặt cái gì xuống"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/derive_lv_1000_it.json",
     "total": 1665,
     "index": 361,
-    "id_item": "derive_lv_1000_it"
+    "id_item": "derive_lv_1000_it",
+    "english": "derive",
+    "list_vietnam": [
+      "nhận được từ, lấy được từ, tìm thấy nguồn gốc từ",
+      "xuất phát từ, chuyển hoá từ, bắt nguồn từ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/describe_lv_1000_it.json",
     "total": 1665,
     "index": 362,
-    "id_item": "describe_lv_1000_it"
+    "id_item": "describe_lv_1000_it",
+    "english": "describe",
+    "list_vietnam": [
+      "diễn tả, mô tả, miêu tả",
+      "vạch, vẽ",
+      "cho là, coi là; định rõ tính chất"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/desert_lv_1000_it.json",
     "total": 1665,
     "index": 363,
-    "id_item": "desert_lv_1000_it"
+    "id_item": "desert_lv_1000_it",
+    "english": "desert",
+    "list_vietnam": [
+      "sa mạc",
+      "bỏ đi; rời bỏ",
+      "bỏ trốn, đào ngũ",
+      "(nghĩa bóng) tan biến"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/design_lv_1000_it.json",
     "total": 1665,
     "index": 364,
-    "id_item": "design_lv_1000_it"
+    "id_item": "design_lv_1000_it",
+    "english": "design",
+    "list_vietnam": [
+      "đề cương, bản phác thảo, phác hoạ, đồ án",
+      "ý muốn, ý định, dự định, dự kiến, mục đích; ý đồ, mưu đồ",
+      "kế hoạch",
+      "cách sắp xếp, cách trình bày, cách trang trí",
+      "kiểu, mẫu, loại, dạng",
+      "khả năng sáng tạo (kiểu, cách trình bày...), tài nghĩ ra (mưu kế...); sự sáng tạo",
+      "phác hoạ, vẽ phác (tranh...), vẽ kiểu (quần áo, xe ô tô...), thiết kế, làm đồ án (nhà cửa), làm đề cương, phác thảo cách trình bày (sách, tranh ảnh (nghệ thuật))",
+      "có ý định, định, dự kiến, trù tính; có ý đồ, có mưu đồ",
+      "chỉ định, để cho, dành cho",
+      "làm nghề vẽ kiểu, làm nghề xây dựng đồ án"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/destination_lv_1000_it.json",
     "total": 1665,
     "index": 365,
-    "id_item": "destination_lv_1000_it"
+    "id_item": "destination_lv_1000_it",
+    "english": "destination",
+    "list_vietnam": [
+      "nơi mà ai/cái gì sẽ được gửi tới; nơi đến"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/destroy_lv_1000_it.json",
     "total": 1665,
     "index": 366,
-    "id_item": "destroy_lv_1000_it"
+    "id_item": "destroy_lv_1000_it",
+    "english": "destroy",
+    "list_vietnam": [
+      "phá, phá hoại, phá huỷ, tàn phá, tiêu diệt",
+      "làm mất hiệu lực, triệt phá"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/determined_lv_1000_it.json",
     "total": 1665,
     "index": 367,
-    "id_item": "determined_lv_1000_it"
+    "id_item": "determined_lv_1000_it",
+    "english": "determined",
+    "list_vietnam": [
+      "đã được xác định, đã được định rõ",
+      "nhất định, nhất quyết, quả quyết; kiên quyết"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/determine_lv_1000_it.json",
     "total": 1665,
     "index": 368,
-    "id_item": "determine_lv_1000_it"
+    "id_item": "determine_lv_1000_it",
+    "english": "determine",
+    "list_vietnam": [
+      "định, xác định, định rõ",
+      "quyết định, định đoạt",
+      "làm cho quyết định, làm cho có quyết tâm thôi thúc",
+      "(pháp lý) làm mãn hạn, kết thúc",
+      "quyết định, quyết tâm, kiên quyết",
+      "(pháp lý) mãn hạn, hết hạn (giao kèo, khế ước...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/develop_lv_1000_it.json",
     "total": 1665,
     "index": 369,
-    "id_item": "develop_lv_1000_it"
+    "id_item": "develop_lv_1000_it",
+    "english": "develop",
+    "list_vietnam": [
+      "trình bày, bày tỏ, thuyết minh (luận điểm, vấn đề...)",
+      "phát triển, mở mang, mở rộng, khuếch trương, làm cho phát đạt",
+      "khai thác",
+      "nhiễm, tiêm nhiễm (thói quen...); ngày càng bộc lộ rõ, ngày càng phát huy (khả năng, khuynh hướng...)",
+      "(nhiếp ảnh) rửa (phim ảnh)",
+      "(quân sự) triển khai, mở",
+      "(toán học) khai triển",
+      "tỏ rõ ra, bộc lộ ra, biểu lộ ra",
+      "phát triển, mở mang, nảy nở",
+      "tiến triển",
+      "hiện (ảnh)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dialect_lv_1000_it.json",
     "total": 1665,
     "index": 370,
-    "id_item": "dialect_lv_1000_it"
+    "id_item": "dialect_lv_1000_it",
+    "english": "dialect",
+    "list_vietnam": [
+      "hình thái ngôn ngữ (ngữ pháp, từ vựng và phát âm) của một vùng trong nước hoặc một lớp người dùng; tiếng địa phương; phương ngữ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dictionary_lv_1000_it.json",
     "total": 1665,
     "index": 371,
-    "id_item": "dictionary_lv_1000_it"
+    "id_item": "dictionary_lv_1000_it",
+    "english": "dictionary",
+    "list_vietnam": [
+      "từ điển",
+      "có tính chất từ điển, có tính chất sách vở"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/die_lv_1000_it.json",
     "total": 1665,
     "index": 372,
-    "id_item": "die_lv_1000_it"
+    "id_item": "die_lv_1000_it",
+    "english": "die",
+    "list_vietnam": [
+      "như dice",
+      "(kiến trúc) chân cột",
+      "khối kim loại cứng có khắc hình dùng để rập tiền, con chữ in, huy chương... hoặc đóng dấu trên giấy, da... khiến hình đó nổi lên trên bề mặt; khuôn rập",
+      "(kỹ thuật) khuôn kéo sợi",
+      "(kỹ thuật) bàn ren (đinh ốc...)",
+      "chết, mất, từ trần; băng hà (vua); hy sinh",
+      "mất đi, tắt đi, tàn lụi, không còn nữa; bị quên đi",
+      "se lại đau đớn, chết lặng đi (lòng, trái tim)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/differ_lv_1000_it.json",
     "total": 1665,
     "index": 373,
-    "id_item": "differ_lv_1000_it"
+    "id_item": "differ_lv_1000_it",
+    "english": "differ",
+    "list_vietnam": [
+      "( to differ from somebody / something ) khác, không giống",
+      "( to differ with / from somebody on / about something ) không đồng ý, không tán thành, bất đồng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/difficult_lv_1000_it.json",
     "total": 1665,
     "index": 374,
-    "id_item": "difficult_lv_1000_it"
+    "id_item": "difficult_lv_1000_it",
+    "english": "difficult",
+    "list_vietnam": [
+      "khó; khó khăn; gay go",
+      "khó tính; khó ai làm vừa lòng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dig_lv_1000_it.json",
     "total": 1665,
     "index": 375,
-    "id_item": "dig_lv_1000_it"
+    "id_item": "dig_lv_1000_it",
+    "english": "dig",
+    "list_vietnam": [
+      "sự đào, sự bới, sự xới, sự cuốc (đất)",
+      "sự thúc; cú thúc",
+      "sự chỉ trích cay độc",
+      "(khảo cổ học) (thông tục) sự khai quật",
+      "(từ Mỹ,nghĩa Mỹ), (thông tục) sinh viên học gạo",
+      "đào bới, xới, cuốc (đất...)",
+      "thúc, ấn sâu, thọc sâu",
+      "moi ra, tìm ra",
+      "(từ Mỹ,nghĩa Mỹ), (từ lóng) chú ý tới",
+      "(từ Mỹ,nghĩa Mỹ), (từ lóng) hiểu rõ",
+      "đào bới, xới, cuốc",
+      "( (thường) + into ), for moi móc, tìm tòi, nghiên cứu",
+      "(từ Mỹ,nghĩa Mỹ), (thông tục) học gạo"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/diplomatic_lv_1000_it.json",
     "total": 1665,
     "index": 376,
-    "id_item": "diplomatic_lv_1000_it"
+    "id_item": "diplomatic_lv_1000_it",
+    "english": "diplomatic",
+    "list_vietnam": [
+      "có tính cách ngoại giao",
+      "khéo léo trong việc xử trí; khôn khéo"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/direct_lv_1000_it.json",
     "total": 1665,
     "index": 377,
-    "id_item": "direct_lv_1000_it"
+    "id_item": "direct_lv_1000_it",
+    "english": "direct",
+    "list_vietnam": [
+      "gửi (thư, bưu phẩm...)",
+      "hướng vào, nhằm vào",
+      "chỉ đường; hướng dẫn",
+      "quản lý; điều khiển",
+      "ra lệnh, chỉ thị",
+      "làm đạo diễn (phim, kịch...)",
+      "không uốn cong, không quanh co; thẳng",
+      "chẳng có gì hoặc không có người nào ở giữa; trực tiếp",
+      "(về dòng dõi trong gia đình) nối tiếp các thế hệ qua con, cháu nội (chứ không qua anh em, chị em, con cô cậu....); trực hệ",
+      "thẳng thắn, bộc trực",
+      "hoàn toàn, tuyệt đối",
+      "(thiên văn học) đi từ tây sang đông, thuận hành",
+      "(âm nhạc) không đảo",
+      "(vật lý) một chiều",
+      "không gián đoạn, sử dụng đường đi thẳng",
+      "không có ai làm trung gian, đích thân"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/discover_lv_1000_it.json",
     "total": 1665,
     "index": 378,
-    "id_item": "discover_lv_1000_it"
+    "id_item": "discover_lv_1000_it",
+    "english": "discover",
+    "list_vietnam": [
+      "khám phá ra, tìm ra, phát hiện ra, nhận ra",
+      "vỡ lẽ ra, nhận thức ra"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/discreet_lv_1000_it.json",
     "total": 1665,
     "index": 379,
-    "id_item": "discreet_lv_1000_it"
+    "id_item": "discreet_lv_1000_it",
+    "english": "discreet",
+    "list_vietnam": [
+      "thận trọng, dè dặt; kín đáo"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/discuss_lv_1000_it.json",
     "total": 1665,
     "index": 380,
-    "id_item": "discuss_lv_1000_it"
+    "id_item": "discuss_lv_1000_it",
+    "english": "discuss",
+    "list_vietnam": [
+      "( to discuss something with somebody ) thảo luận; bàn cãi; tranh luận"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dismiss_lv_1000_it.json",
     "total": 1665,
     "index": 381,
-    "id_item": "dismiss_lv_1000_it"
+    "id_item": "dismiss_lv_1000_it",
+    "english": "dismiss",
+    "list_vietnam": [
+      "giải tán (đám đông tụ tập, quân đội...)",
+      "cho đi",
+      "đuổi ra, thải hồi, sa thải (người làm...)",
+      "gạt bỏ, xua đuổi (ý nghĩ...)",
+      "bàn luận qua loa, nêu lên qua loa (một vấn đề, cốt để bỏ qua)",
+      "(thể dục,thể thao) đánh đi (quả bóng crickê)",
+      "(pháp lý) bỏ không xét (một vụ); bác (đơn)",
+      "the dismiss (quân sự) sự giải tán (sau buổi tập luyện)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/display_lv_1000_it.json",
     "total": 1665,
     "index": 382,
-    "id_item": "display_lv_1000_it"
+    "id_item": "display_lv_1000_it",
+    "english": "display",
+    "list_vietnam": [
+      "sự bày ra, sự phô bày, sự trưng bày",
+      "sự phô trương, sự khoe khoang",
+      "sự biểu lộ, sự để lộ ra",
+      "(ngành in) sự sắp chữ nổi bật",
+      "bày ra, phô bày, trưng bày",
+      "phô trương, khoe khoang (kiến thức...)",
+      "biểu lộ ra, để lộ ra, bày tỏ ra (lòng can đảm...)",
+      "(ngành in) sắp (chữ) nổi bật",
+      "(vi tính) hiển thị"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/disposal_lv_1000_it.json",
     "total": 1665,
     "index": 383,
-    "id_item": "disposal_lv_1000_it"
+    "id_item": "disposal_lv_1000_it",
+    "english": "disposal",
+    "list_vietnam": [
+      "sự vứt bỏ đi, sự tống khứ",
+      "máy nghiền rác",
+      "sự bán, sự chuyển nhượng, sự nhượng lại",
+      "sự tuỳ ý sử dụng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dispose_lv_1000_it.json",
     "total": 1665,
     "index": 384,
-    "id_item": "dispose_lv_1000_it"
+    "id_item": "dispose_lv_1000_it",
+    "english": "dispose",
+    "list_vietnam": [
+      "sắp đặt, sắp xếp, bố trí",
+      "làm cho ai tự nguyện hoặc sẵn sàng làm cái gì",
+      "( to dispose of somebody / something ) vứt bỏ, tống khứ; đánh bại",
+      "có sẵn ai/cái gì để sử dụng",
+      "quyết định"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/distant_lv_1000_it.json",
     "total": 1665,
     "index": 385,
-    "id_item": "distant_lv_1000_it"
+    "id_item": "distant_lv_1000_it",
+    "english": "distant",
+    "list_vietnam": [
+      "xa trong không gian và thời gian",
+      "(về người) không có họ hàng gần gũi",
+      "(về mối liên kết, sự tương đồng...) không thật chắc hoặc rõ ràng",
+      "không thân mật; dè dặt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/distinction_lv_1000_it.json",
     "total": 1665,
     "index": 386,
-    "id_item": "distinction_lv_1000_it"
+    "id_item": "distinction_lv_1000_it",
+    "english": "distinction",
+    "list_vietnam": [
+      "( distinction between A and B ) sự khác biệt hoặc tương phản giữa người/vật này với người/vật kia",
+      "nét đặc biệt; nét độc đáo",
+      "biểu hiện danh dự; tước hiệu; danh hiệu",
+      "sự ưu tú; sự xuất chúng; sự lỗi lạc"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/distinguish_lv_1000_it.json",
     "total": 1665,
     "index": 387,
-    "id_item": "distinguish_lv_1000_it"
+    "id_item": "distinguish_lv_1000_it",
+    "english": "distinguish",
+    "list_vietnam": [
+      "( to distinguish between A and B / A from B ) phân biệt",
+      "( to distinguish A from B ) chỉ ra sự khác biệt (giữa vật này với vật kia/người này với người kia); là dấu hiệu đặc trưng của ai/cái gì",
+      "nhận ra",
+      "( to distinguish oneself ) nổi bật"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dive_lv_1000_it.json",
     "total": 1665,
     "index": 388,
-    "id_item": "dive_lv_1000_it"
+    "id_item": "dive_lv_1000_it",
+    "english": "dive",
+    "list_vietnam": [
+      "sự nhảy lao đầu xuống (nước...); sự lặn",
+      "(hàng không) sự đâm bổ xuống, sự bổ nhào xuống (máy bay)",
+      "(hàng hải) sự lặn (tàu ngầm)",
+      "sự vụt biến mất, sự vụt lao biến đi",
+      "sự thọc tay vào túi",
+      "(từ Mỹ,nghĩa Mỹ) quán rượu chui (nơi lui tới của bọn vô lại...)",
+      "chỗ ẩn náu (của bọn lưu manh)",
+      "cửa hàng ở tầng hầm (thường) bán một số hàng đặc biệt",
+      "nhảy lao đầu xuống (nước...); lặn",
+      "(hàng không) đâm bổ xuống, bổ nhào xuống (máy bay)",
+      "(hàng hải) lặn (tàu ngầm)",
+      "lặn xuống thình lình, chìm xuống thình lình; vụt lao biến đi, vụt biến mất",
+      "( + into ) thọc tay vào (túi, nước...)",
+      "( + into ) chìm đắm vào, mải mê vào, đi sâu vào (công việc nghiên cứu cái gì...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/divide_lv_1000_it.json",
     "total": 1665,
     "index": 389,
-    "id_item": "divide_lv_1000_it"
+    "id_item": "divide_lv_1000_it",
+    "english": "divide",
+    "list_vietnam": [
+      "(từ Mỹ, nghĩa Mỹ) dải đất cao ngăn cách hai hệ thống sông",
+      "( to divide something into something ) (gây ra) sự chia rẽ hoặc ngắt đoạn ra nhiều phần (cái gì); tách rời ra; chia; phân ra",
+      "( to divide something between / among somebody ) cắt cái gì thành nhiều phần và chia cho mỗi người trong nhóm",
+      "( to divide something between A and B ) chi cái gì (nhất là thời giờ) và dùng các phần của nó cho các hoạt động khác nhau; phân chia",
+      "( to divide A from B ) tách ra hoặc làm ranh giới giữa hai người hoặc vật; phân cách",
+      "làm cho không thống nhất về ý kiến; chia rẽ; ly gián",
+      "( to divide something by something ) (toán học) tìm ra số lần mà một số chia hết cho một số khác; chia hết",
+      "( to divide something into something ) có thể đem nhân lên để cho một số khác",
+      "chia làm hai phe để biểu quyết (nghị viện, quốc hội)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/division_lv_1000_it.json",
     "total": 1665,
     "index": 390,
-    "id_item": "division_lv_1000_it"
+    "id_item": "division_lv_1000_it",
+    "english": "division",
+    "list_vietnam": [
+      "sự chia; sự phân chia",
+      "bất cứ phần nào được chia ra từ cái gì; phần; đoạn",
+      "(viết tắt) là Div đơn vị hay bộ phận chủ yếu của một tổ chức",
+      "(toán học) phép chia",
+      "sự bất đồng hay sự khác nhau về tư tưởng, lối sống...; sự phân hoá",
+      "sự chia làm hai phe để biểu quyết (ở quốc hội, nghị viện...)",
+      "phân khu, khu vực hành chính",
+      "đường phân chia, ranh giới; vách ngăn",
+      "(quân sự) sư đoàn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/divorce_lv_1000_it.json",
     "total": 1665,
     "index": 391,
-    "id_item": "divorce_lv_1000_it"
+    "id_item": "divorce_lv_1000_it",
+    "english": "divorce",
+    "list_vietnam": [
+      "( divorce from somebody ) sự ly dị; sự ly hôn",
+      "(nghĩa bóng) sự tách biệt",
+      "kết thúc hợp pháp cuộc hôn nhân của mình (với ai); ly hôn; ly dị",
+      "tách ai/cái gì một cách sai lầm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/doctor_lv_1000_it.json",
     "total": 1665,
     "index": 392,
-    "id_item": "doctor_lv_1000_it"
+    "id_item": "doctor_lv_1000_it",
+    "english": "doctor",
+    "list_vietnam": [
+      "bác sĩ y khoa",
+      "tiến sĩ",
+      "(hàng hải), (từ lóng) người đầu bếp, anh nuôi (trên tàu)",
+      "bộ phận điều chỉnh (ở máy)",
+      "ruồi già (để câu cá)",
+      "chữa bệnh cho (ai); trị (bệnh)",
+      "thiến, hoạn (đối với súc vật)",
+      "làm giả; giả mạo",
+      "( to doctor something with something ) thêm cái gì có hại vào đồ ăn thức uống",
+      "làm bác sĩ y khoa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/documentation_lv_1000_it.json",
     "total": 1665,
     "index": 393,
-    "id_item": "documentation_lv_1000_it"
+    "id_item": "documentation_lv_1000_it",
+    "english": "documentation",
+    "list_vietnam": [
+      "sự chứng minh bằng tài liệu; sự dẫn chứng bằng tư liệu",
+      "những tài liệu làm bằng chứng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dog_lv_1000_it.json",
     "total": 1665,
     "index": 394,
-    "id_item": "dog_lv_1000_it"
+    "id_item": "dog_lv_1000_it",
+    "english": "dog",
+    "list_vietnam": [
+      "chó",
+      "chó săn",
+      "chó đực; chó sói đực ( (cũng) dog wolf ); cáo đực ( (cũng) dog fox )",
+      "kẻ đê tiện, kẻ đáng khinh, đồ chó má; kẻ cắn cẩu cục cằn",
+      "gã, thằng cha",
+      "( số nhiều) vỉ lò ở lò sưởi ( (cũng) fire dogs )",
+      "(kỹ thuật) móng kìm, cặp, móc ngoạm, gàu ngoạm",
+      "mống bão ở chân trời ( (cũng) sea dog )",
+      "(như) dogfish",
+      "theo nhùng nhằng, theo sát gót, bám sát (ai)",
+      "(kỹ thuật) kẹp bằng kìm, cặp bằng móc ngoạm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dominate_lv_1000_it.json",
     "total": 1665,
     "index": 395,
-    "id_item": "dominate_lv_1000_it"
+    "id_item": "dominate_lv_1000_it",
+    "english": "dominate",
+    "list_vietnam": [
+      "át hẳn, trội hơn, chiếm ưu thế; có ảnh hưởng lớn, chi phối",
+      "thống trị",
+      "kiềm chế, chế ngự, nén được (dục vọng...)",
+      "vượt cao hơn hẳn, bao quát (núi cao...)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/done_lv_1000_it.json",
     "total": 1665,
     "index": 396,
-    "id_item": "done_lv_1000_it"
+    "id_item": "done_lv_1000_it",
+    "english": "done",
+    "list_vietnam": [
+      "(về thức ăn) nấu chín",
+      "có thể chấp nhận về mặt xã hội",
+      "(dùng để cho thấy mình chấp nhận một đề nghị) xong!"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/door_lv_1000_it.json",
     "total": 1665,
     "index": 397,
-    "id_item": "door_lv_1000_it"
+    "id_item": "door_lv_1000_it",
+    "english": "door",
+    "list_vietnam": [
+      "cửa, cửa ra vào (nhà, xe ô tô...)",
+      "phương tiện để có được cái gì hoặc đạt được cái gì; cửa ngõ, con đường"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/double_lv_1000_it.json",
     "total": 1665,
     "index": 398,
-    "id_item": "double_lv_1000_it"
+    "id_item": "double_lv_1000_it",
+    "english": "double",
+    "list_vietnam": [
+      "gấp hai lần, nhiều gấp hai lần, gấp đôi",
+      "có hai phần bằng nhau, làm bằng hai vật giống nhau",
+      "được làm cho hai người hoặc hai vật",
+      "đôi, hai, kép",
+      "(về hoa) có nhiều cánh hoa hơn số cánh hoa thông thường; kép",
+      "cái gấp đôi, lượng gấp đôi",
+      "cốc đựng lượng rượu gấp đôi bình thường",
+      "bản giống hệt, bản sao y, cái giống hệt cái khác; người giống hệt người khác",
+      "( doubles ) (thể dục,thể thao) trận đánh đôi (bóng bàn, quần vợt)",
+      "( the double ) (thể dục thể thao) hai giải giành được trong những cuộc thi đấu giống nhau",
+      "(đánh bài) sự đặt tiền gấp đôi",
+      "(trò chơi ném phi tiêu) trúng vòng ngoài của bia, ghi điểm thắng gấp đôi",
+      "(sân khấu) người diễn thay một một diễn viên trong những cảnh nguy hiểm",
+      "thành hai hoặc thành hai phần",
+      "làm gấp đôi, tăng gấp đôi, nhân gấp đôi",
+      "( to double something up / over / across / back ) uốn làm đôi; gập đôi",
+      "tạm thời dùng làm cái gì",
+      "(sân khấu); (điện ảnh) đóng (một vai thứ hai) cũng giỏi như vai kia",
+      "chơi hoặc hát cùng một bản nhạc như (một nhạc cụ hoặc một giọng hát khác); hoà điệu",
+      "nắm chặt (nắm tay)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dove_lv_1000_it.json",
     "total": 1665,
     "index": 399,
-    "id_item": "dove_lv_1000_it"
+    "id_item": "dove_lv_1000_it",
+    "english": "dove",
+    "list_vietnam": [
+      "chim bồ câu",
+      "người đem tin mừng; sứ giả của hoà bình",
+      "người yêu quý, \"bồ câu nhỏ\" (tiếng gọi thân mật)",
+      "(chính trị) người chủ trương hoà bình (đối với kẻ hiếu chiến)"
+    ]
   }
 ]
