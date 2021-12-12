@@ -5,10 +5,13 @@
     "index": 0,
     "id_item": "abandon_lv_1000_it",
     "english": "abandon",
-    "list_vietnam": [
+    "list_mean": [
       "từ bỏ; bỏ rơi, ruồng bỏ",
       "sự phóng túng, sự tự do, sự buông thả"
-    ]
+    ],
+    "cau_en": "to abandon a hope",
+    "cau_vn": "từ bỏ hy vọng",
+    "hash_code_list_mean": "926238991"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/abide_lv_1000_it.json",
@@ -16,12 +19,15 @@
     "index": 1,
     "id_item": "abide_lv_1000_it",
     "english": "abide",
-    "list_vietnam": [
+    "list_mean": [
       "vẫn còn, tiếp tục, ở lại, kéo dài",
       "chờ, chờ đợi",
       "chịu đựng, chịu",
       "( + by ) hành động đúng theo cái gì; tôn trọng; trung thành tôn trọng, giữ, tuân theo, chịu theo; trung thành với"
-    ]
+    ],
+    "cau_en": "this mistake will not abide for ever",
+    "cau_vn": "sai lầm này sẽ không thể kéo dài mãi được",
+    "hash_code_list_mean": "1571041182"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/able_lv_1000_it.json",
@@ -29,11 +35,14 @@
     "index": 2,
     "id_item": "able_lv_1000_it",
     "english": "able",
-    "list_vietnam": [
+    "list_mean": [
       "có năng lực; có tài; lành nghề",
       "có một tính cách nào đó",
       "Có thể, cần được"
-    ]
+    ],
+    "cau_en": "an able co-op manager",
+    "cau_vn": "một chủ nhiệm hợp tác xã có năng lực",
+    "hash_code_list_mean": "-1845639973"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/about_lv_1000_it.json",
@@ -41,7 +50,7 @@
     "index": 3,
     "id_item": "about_lv_1000_it",
     "english": "about",
-    "list_vietnam": [
+    "list_mean": [
       "đây đó, ở nhiều hướng, khắp chung quanh",
       "chỗ này chỗ kia (tại một nơi)",
       "ở gần đâu đây, không xa",
@@ -55,7 +64,10 @@
       "quan tâm hoặc bận việc gì",
       "khoảng chừng, gần",
       "ở (ai); trong người (ai), theo với (ai)"
-    ]
+    ],
+    "cau_en": "the children were rushing about",
+    "cau_vn": "các trẻ em xông xáo chỗ này chỗ kia",
+    "hash_code_list_mean": "-1659485"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/above_lv_1000_it.json",
@@ -63,7 +75,7 @@
     "index": 4,
     "id_item": "above_lv_1000_it",
     "english": "above",
-    "list_vietnam": [
+    "list_mean": [
       "ở hoặc tới một điểm cao hơn; trên đầu; ở trên; phía trên",
       "trở lại phía trước hoặc xa hơn (trong cuốn sách, bài báo...); ở trên",
       "ởtrên hoặc lên trời",
@@ -73,7 +85,10 @@
       "vượt quá tầm của cái gì vì quá tốt, quá lớn......",
       "quá tốt đối với cái gì",
       "phía trên (ngược chiều với chỗ nào đó)"
-    ]
+    ],
+    "cau_en": "my bedroom is immediately above",
+    "cau_vn": "phòng ngủ của tôi ngay bên trên",
+    "hash_code_list_mean": "262114835"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/abroad_lv_1000_it.json",
@@ -81,12 +96,15 @@
     "index": 5,
     "id_item": "abroad_lv_1000_it",
     "english": "abroad",
-    "list_vietnam": [
+    "list_mean": [
       "ở hoặc tới một nước hoặc nhiều nước ngoài; ở xa nước mình; ở nước ngoài; hải ngoại",
       "được lưu truyền rộng rãi",
       "ngoài trời (đối với trong nhà)",
       "(thông tục) nghĩ sai, nhầm, tưởng lầm"
-    ]
+    ],
+    "cau_en": "to live abroad",
+    "cau_vn": "sống ở nước ngoài",
+    "hash_code_list_mean": "-187567849"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/absolutely_lv_1000_it.json",
@@ -94,12 +112,15 @@
     "index": 6,
     "id_item": "absolutely_lv_1000_it",
     "english": "absolutely",
-    "list_vietnam": [
+    "list_mean": [
       "tuyệt đối, hoàn toàn",
       "chuyên chế, độc đoán",
       "vô điều kiện",
       "(thông tục) nhất định, chắc chắn; tất nhiên; hoàn toàn như vậy, đúng như vậy"
-    ]
+    ],
+    "cau_en": "to be absolutely wrong",
+    "cau_vn": "hoàn toàn sai lầm, hoàn toàn trái",
+    "hash_code_list_mean": "879646861"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/accept_lv_1000_it.json",
@@ -107,12 +128,15 @@
     "index": 7,
     "id_item": "accept_lv_1000_it",
     "english": "accept",
-    "list_vietnam": [
+    "list_mean": [
       "nhận, chấp nhận, chấp thuận",
       "thừa nhận",
       "đảm nhận (công việc...)",
       "(thương nghiệp) nhận thanh toán (hoá đơn, hối phiếu...)"
-    ]
+    ],
+    "cau_en": "to accept a proposal",
+    "cau_vn": "chấp nhận một đề nghị",
+    "hash_code_list_mean": "-1948932952"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/accident_lv_1000_it.json",
@@ -120,13 +144,16 @@
     "index": 8,
     "id_item": "accident_lv_1000_it",
     "english": "accident",
-    "list_vietnam": [
+    "list_mean": [
       "sự rủi ro, tai nạn, tai biến",
       "sự tình cờ, sự ngẫu nhiên",
       "cái phụ, cái không chủ yếu",
       "sự gồ ghề, sự khấp khểnh",
       "(âm nhạc) dấu thăng giáng bất thường"
-    ]
+    ],
+    "cau_en": "without accident",
+    "cau_vn": "an toàn không xảy ra tai nạn",
+    "hash_code_list_mean": "1966429428"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/accommodation_lv_1000_it.json",
@@ -134,12 +161,15 @@
     "index": 9,
     "id_item": "accommodation_lv_1000_it",
     "english": "accommodation",
-    "list_vietnam": [
+    "list_mean": [
       "( accommodation of something to something ) quá trình điều chỉnh, thích nghi",
       "phòng ở; phòng đủ tiện nghi",
       "( số nhiều) (từ Mỹ, nghĩa Mỹ) phòng đủ tiện nghi; ở và ăn",
       "sự thu xếp thuận tiện; sự thoả hiệp"
-    ]
+    ],
+    "cau_en": "I arranged the accommodation of my plans to yours",
+    "cau_vn": "Tôi điều chỉnh kế hoạch của tôi theo kế hoạch của anh",
+    "hash_code_list_mean": "-518461323"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/accompany_lv_1000_it.json",
@@ -147,11 +177,14 @@
     "index": 10,
     "id_item": "accompany_lv_1000_it",
     "english": "accompany",
-    "list_vietnam": [
+    "list_mean": [
       "đi cùng với ai như là một người bạn đường hoặc người giúp đỡ, người hộ tống",
       "( to accompany something by / with something ) có mặt hoặc xảy ra cùng với cái gì; cung cấp cái gì thêm vào cái gì khác, phụ thêm vào",
       "(âm nhạc) ( to accompany somebody at / on something ) đệm nhạc cho ai"
-    ]
+    ],
+    "cau_en": "I must ask you to accompany me to the police station",
+    "cau_vn": "Tôi phải nhờ anh đi cùng tôi đến đồn cảnh sát",
+    "hash_code_list_mean": "1590902492"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/account_lv_1000_it.json",
@@ -159,7 +192,7 @@
     "index": 11,
     "id_item": "account_lv_1000_it",
     "english": "account",
-    "list_vietnam": [
+    "list_mean": [
       "sự tính toán số tiền phải trả hoặc nợ về hàng hoá hoặc dịch vụ",
       "(tài chính) tài khoản (viết tắt) là a/c",
       "bản kê khai; bản báo cáo; bản miêu tả",
@@ -167,7 +200,10 @@
       "( to account to somebody for something ) ghi chép đàng hoàng",
       "( to account for something ) giải thích nguyên nhân gây ra điều gì",
       "( to account for somebody / something ) phá hủy cái gì hoặc giết chết ai"
-    ]
+    ],
+    "cau_en": "to send in /render an account",
+    "cau_vn": "giao/thanh toán một khoản tiền",
+    "hash_code_list_mean": "-1486171523"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/accredit_lv_1000_it.json",
@@ -175,11 +211,14 @@
     "index": 12,
     "id_item": "accredit_lv_1000_it",
     "english": "accredit",
-    "list_vietnam": [
+    "list_mean": [
       "( to accredit somebody to / at ...; to accredit somebody to somebody ) gửi hay chỉ định ai (nhất là đại sứ) làm đại diện chính thức tới (một chính phủ nước ngoài...)",
       "( to accredit something to somebody ; to accredit somebody with something ) gán cho, quy cho, đổ cho",
       "giành, chiếm được lòngtin hay ảnh hưởng về (lời khuyên, người khuyên, lời tuyên bố...)"
-    ]
+    ],
+    "cau_en": "he was accredited to /at Madrid/accredited to the Spanish king",
+    "cau_vn": "ông ta được cử tới Madrid làm đại sứ/chỉ định làm đại sứ bên cạnh vua Tây Ban Nha",
+    "hash_code_list_mean": "-968805486"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/accurately_lv_1000_it.json",
@@ -187,9 +226,12 @@
     "index": 13,
     "id_item": "accurately_lv_1000_it",
     "english": "accurately",
-    "list_vietnam": [
+    "list_mean": [
       "đúng đắn, chính xác, xác đáng"
-    ]
+    ],
+    "cau_en": "to evaluate sb's ability accurately",
+    "cau_vn": "đánh giá đúng đắn khả năng của ai",
+    "hash_code_list_mean": "-1856105768"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/accuse_lv_1000_it.json",
@@ -197,9 +239,12 @@
     "index": 14,
     "id_item": "accuse_lv_1000_it",
     "english": "accuse",
-    "list_vietnam": [
+    "list_mean": [
       "( to accuse somebody of something ) buộc tội; kết tội"
-    ]
+    ],
+    "cau_en": "to accuse sb of theft , of cheating",
+    "cau_vn": "buộc tội ai vì trộm cắp, lừa đảo",
+    "hash_code_list_mean": "-2081099372"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/achieve_lv_1000_it.json",
@@ -207,10 +252,13 @@
     "index": 15,
     "id_item": "achieve_lv_1000_it",
     "english": "achieve",
-    "list_vietnam": [
+    "list_mean": [
       "đạt được, giành được (do nỗ lực, khéo léo, dũng cảm...)",
       "hoàn thành, hoàn tất"
-    ]
+    ],
+    "cau_en": "to achieve one's purpose (aim )",
+    "cau_vn": "đạt mục đích",
+    "hash_code_list_mean": "1098074247"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/acknowledge_lv_1000_it.json",
@@ -218,13 +266,16 @@
     "index": 16,
     "id_item": "acknowledge_lv_1000_it",
     "english": "acknowledge",
-    "list_vietnam": [
+    "list_mean": [
       "chấp nhận sự thật của cái gì; thừa nhận cái gì",
       "( to acknowledge somebody as something ) công nhận; thừa nhận",
       "báo cho biết đã nhận được",
       "bày tỏ lòng biết ơn về việc gì",
       "tỏ ra mình đã lưu ý hoặc nhận ra (ai) bằng một nụ cười, lời chào"
-    ]
+    ],
+    "cau_en": "to acknowledge one's guilt",
+    "cau_vn": "nhận tội; thú tội",
+    "hash_code_list_mean": "10329293"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/acquire_lv_1000_it.json",
@@ -232,9 +283,12 @@
     "index": 17,
     "id_item": "acquire_lv_1000_it",
     "english": "acquire",
-    "list_vietnam": [
+    "list_mean": [
       "được, giành được, thu được, đạt được, kiếm được"
-    ]
+    ],
+    "cau_en": "to acquire a good reputation",
+    "cau_vn": "được tiếng tốt",
+    "hash_code_list_mean": "-448171581"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/actor_lv_1000_it.json",
@@ -242,10 +296,13 @@
     "index": 18,
     "id_item": "actor_lv_1000_it",
     "english": "actor",
-    "list_vietnam": [
+    "list_mean": [
       "diễn viên (kịch, tuồng, chèo, (điện ảnh)...); kép, kép hát",
       "(từ hiếm,nghĩa hiếm) người làm (một việc gì)"
-    ]
+    ],
+    "cau_en": "film actor",
+    "cau_vn": "tài tử đóng phim, diễn viên điện ảnh",
+    "hash_code_list_mean": "381064628"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/act_lv_1000_it.json",
@@ -253,7 +310,7 @@
     "index": 19,
     "id_item": "act_lv_1000_it",
     "english": "act",
-    "list_vietnam": [
+    "list_mean": [
       "việc làm; hành vi; hành động",
       "đạo luật",
       "hồi (một phân đoạn trong một trong vở kịch)",
@@ -267,7 +324,10 @@
       "đóng kịch; diễn kịch; diễn xuất",
       "( to act upon / on something ) hành động theo cái gì; làm theo cái gì",
       "(to act up to something ) hành động cho xứng đáng với cái gì"
-    ]
+    ],
+    "cau_en": "act of violence",
+    "cau_vn": "hành động bạo lực",
+    "hash_code_list_mean": "-1809609383"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/addition_lv_1000_it.json",
@@ -275,10 +335,13 @@
     "index": 20,
     "id_item": "addition_lv_1000_it",
     "english": "addition",
-    "list_vietnam": [
+    "list_mean": [
       "(toán học) tính cộng; phép cộng",
       "( addition to something ) người hoặc vật thêm vào"
-    ]
+    ],
+    "cau_en": "such an outfit would be a useful addition to my wardrobe",
+    "cau_vn": "bộ này sẽ là phần bổ sung hữu ích cho tủ áo của tôi",
+    "hash_code_list_mean": "-746544218"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/address_lv_1000_it.json",
@@ -286,7 +349,7 @@
     "index": 21,
     "id_item": "address_lv_1000_it",
     "english": "address",
-    "list_vietnam": [
+    "list_mean": [
       "địa chỉ",
       "bài nói chuyện; bài diễn văn",
       "( số nhiều) lời tỏ tình; lời tán tỉnh",
@@ -297,7 +360,10 @@
       "( to address oneself to something ) chú tâm/chuyên tâm vào điều gì",
       "(thể dục,thể thao) nhằm vào (quả bóng) trong trò đánh cầu",
       "(tin học) trữ hoặc lấy ra (một mẩu tin) bằng cách dùng bảng hướng dẫn"
-    ]
+    ],
+    "cau_en": "my home /business address is 191 Hoang Van Thu Street",
+    "cau_vn": "địa chỉ nhà/cơ quan của tôi là 191 phố Hoàng Văn Thụ",
+    "hash_code_list_mean": "-1430426326"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/add_lv_1000_it.json",
@@ -305,11 +371,14 @@
     "index": 22,
     "id_item": "add_lv_1000_it",
     "english": "add",
-    "list_vietnam": [
+    "list_mean": [
       "thêm vào, làm tăng thêm",
       "nói thêm",
       "( + in ) kế vào, tính vào, gộp vào"
-    ]
+    ],
+    "cau_en": "add some more hot water to your tea",
+    "cau_vn": "cho thêm ít nước nóng nữa vào tách trà của anh",
+    "hash_code_list_mean": "-225453655"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/admit_lv_1000_it.json",
@@ -317,12 +386,15 @@
     "index": 23,
     "id_item": "admit_lv_1000_it",
     "english": "admit",
-    "list_vietnam": [
+    "list_mean": [
       "( to admit somebody / something into / to something ) nhận vào, cho vào",
       "chứa được, nhận được, có đủ chỗ (cho ai /cái gì)",
       "( to admit to something / doing something ) nhận, thừa nhận; thú nhận",
       "( to admit of something ) thừa nhận khả năng của cái gì; nhường chỗ cho cái gì"
-    ]
+    ],
+    "cau_en": "that man is not to be admitted",
+    "cau_vn": "người ấy không được nhận vào",
+    "hash_code_list_mean": "182262675"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/adopt_lv_1000_it.json",
@@ -330,12 +402,15 @@
     "index": 24,
     "id_item": "adopt_lv_1000_it",
     "english": "adopt",
-    "list_vietnam": [
+    "list_mean": [
       "( to adopt somebody as something ) nhận ai vào gia đình để làm con mình hoặc làm người thừa kế mình; nhận làm con nuôi",
       "( to adopt somebody as something ) chọn ai làm ứng cử viên hoặc đại diện",
       "kế tục và có hoặc sử dụng cái gì như của riêng mình",
       "chấp nhận, thông qua"
-    ]
+    ],
+    "cau_en": "she is their adopted daughter",
+    "cau_vn": "cô ta là con nuôi của họ",
+    "hash_code_list_mean": "151117194"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/advise_lv_1000_it.json",
@@ -343,11 +418,14 @@
     "index": 25,
     "id_item": "advise_lv_1000_it",
     "english": "advise",
-    "list_vietnam": [
+    "list_mean": [
       "( to advise somebody against something / doing something ) ( to advise somebody on something ) cho ai lời khuyên; khuyên bảo",
       "(thương nghiệp) ( to advise somebody of something ) báo cho biết",
       "hỏi ý kiến"
-    ]
+    ],
+    "cau_en": "the doctor advised (me to take ) a complete rest",
+    "cau_vn": "bác sĩ khuyên (tôi) nghỉ ngơi hoàn toàn",
+    "hash_code_list_mean": "-934143939"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/affect_lv_1000_it.json",
@@ -355,13 +433,16 @@
     "index": 26,
     "id_item": "affect_lv_1000_it",
     "english": "affect",
-    "list_vietnam": [
+    "list_mean": [
       "ảnh hưởng đến ai/cái gì; tác động đến đến ai/cái gì",
       "làm xúc động, làm cảm động, làm mủi lòng",
       "(nói về bệnh tật) tấn công ai/cái gì; nhiễm vào",
       "giả vờ; giả bộ; làm ra vẻ",
       "dùng; ưa dùng; thích"
-    ]
+    ],
+    "cau_en": "the frequent changes of weather affect his health",
+    "cau_vn": "thời tiết thay đổi luôn làm ảnh hưởng đến sức khoẻ của anh ấy",
+    "hash_code_list_mean": "-1022590678"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/afford_lv_1000_it.json",
@@ -369,10 +450,13 @@
     "index": 27,
     "id_item": "afford_lv_1000_it",
     "english": "afford",
-    "list_vietnam": [
+    "list_mean": [
       "có thể, có đủ sức, có đủ khả năng, có đủ điều kiện (để làm gì)",
       "cho, tạo cho, cấp cho, ban cho"
-    ]
+    ],
+    "cau_en": "I can't afford to lose a minute",
+    "cau_vn": "tôi không thể để mất một phút nào",
+    "hash_code_list_mean": "1398069924"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/afraid_lv_1000_it.json",
@@ -380,11 +464,14 @@
     "index": 28,
     "id_item": "afraid_lv_1000_it",
     "english": "afraid",
-    "list_vietnam": [
+    "list_mean": [
       "( afraid of somebody / something , of doing something / to do something ) sợ hãi",
       "( afraid of doing something / that ...) lo lắng, bâng khuâng về (kết quả có thể có của cái gì)",
       "( afraid for somebody / something ) sợ hãi hoặc lo lắng về những cái có thể gây nguy hiểm cho cái gì/ai"
-    ]
+    ],
+    "cau_en": "don't be afraid !",
+    "cau_vn": "đừng sợ!",
+    "hash_code_list_mean": "398248832"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/after_lv_1000_it.json",
@@ -392,7 +479,7 @@
     "index": 29,
     "id_item": "after_lv_1000_it",
     "english": "after",
-    "list_vietnam": [
+    "list_mean": [
       "sau, đằng sau",
       "sau, sau khi",
       "ở đằng sau, phía sau, đứng sau, liền sau",
@@ -403,7 +490,10 @@
       "sau khi",
       "sau này, sau đây, tiếp sau",
       "(hàng hải) ở đằng sau, ở phía sau"
-    ]
+    ],
+    "cau_en": "three days after",
+    "cau_vn": "ba ngày sau",
+    "hash_code_list_mean": "-1568060372"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/against_lv_1000_it.json",
@@ -411,13 +501,16 @@
     "index": 30,
     "id_item": "against_lv_1000_it",
     "english": "against",
-    "list_vietnam": [
+    "list_mean": [
       "chống lại, ngược lại, phản đối",
       "tương phản với",
       "dựa vào, tỳ vào, áp vào, đập vào",
       "phòng, đề phòng, phòng xa",
       "đổi lấy"
-    ]
+    ],
+    "cau_en": "to fight against aggression",
+    "cau_vn": "chiến đấu chống xâm lược",
+    "hash_code_list_mean": "-347411055"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/again_lv_1000_it.json",
@@ -425,13 +518,16 @@
     "index": 31,
     "id_item": "again_lv_1000_it",
     "english": "again",
-    "list_vietnam": [
+    "list_mean": [
       "lại, lần nữa, nữa",
       "như trước, tới hoặc trong vị trí hoặc điều kiện ban đầu",
       "đáp lại, dội lại",
       "mặt khác, ngoài ra, hơn nữa, vả lại, vả chăng",
       "thêm nữa"
-    ]
+    ],
+    "cau_en": "try again !",
+    "cau_vn": "hãy thử lần nữa!",
+    "hash_code_list_mean": "931889389"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/age_lv_1000_it.json",
@@ -439,7 +535,7 @@
     "index": 32,
     "id_item": "age_lv_1000_it",
     "english": "age",
-    "list_vietnam": [
+    "list_mean": [
       "tuổi",
       "tuổi già, tuổi tác",
       "thời đại, thời kỳ",
@@ -448,7 +544,10 @@
       "làm cho chín, ngấu",
       "già đi, cho thấy dấu hiệu già đi",
       "chín, ngấu"
-    ]
+    ],
+    "cau_en": "what age are you ?",
+    "cau_vn": "anh bao nhiêu tuổi?",
+    "hash_code_list_mean": "-2070603118"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/ago_lv_1000_it.json",
@@ -456,9 +555,12 @@
     "index": 33,
     "id_item": "ago_lv_1000_it",
     "english": "ago",
-    "list_vietnam": [
+    "list_mean": [
       "(dùng sau từ hoặc cụm từ mà nó bổ nghĩa, nhất là với thời quá khứ đơn giản, nhưng không dùng với thể hoàn thành) đã qua, trong quá khứ"
-    ]
+    ],
+    "cau_en": "five years ago",
+    "cau_vn": "năm năm trước đây, cách đây năm năm",
+    "hash_code_list_mean": "297284223"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/agree_lv_1000_it.json",
@@ -466,7 +568,7 @@
     "index": 34,
     "id_item": "agree_lv_1000_it",
     "english": "agree",
-    "list_vietnam": [
+    "list_mean": [
       "( to agree to something ) bằng lòng, đồng ý cái gì",
       "( to agree with somebody about / on something ) đồng ý với ai về điều gì",
       "( to agree with something ) phù hợp với, khớp với",
@@ -475,7 +577,10 @@
       "(ngôn ngữ học) phù hợp (với một từ hoặc cụm từ) về số, ngôi...",
       "đạt tới cùng một ý kiến về điều gì; thoả thuận",
       "chấp nhận cái gì là đúng; tán thành"
-    ]
+    ],
+    "cau_en": "I asked for a pay rise and she agreed",
+    "cau_vn": "tôi đề nghị tăng lương và bà ấy đã đồng ý",
+    "hash_code_list_mean": "391771812"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/aim_lv_1000_it.json",
@@ -483,7 +588,7 @@
     "index": 35,
     "id_item": "aim_lv_1000_it",
     "english": "aim",
-    "list_vietnam": [
+    "list_mean": [
       "sự nhắm, sự nhắm",
       "đích (để nhắm bắn)",
       "mục đích, mục tiêu, ý định",
@@ -492,7 +597,10 @@
       "hướng vào, tập trung vào, xoáy vào",
       "nhắm, nhắm",
       "nhắm mục đích, có ý định, ngấp nghé, mong mỏi"
-    ]
+    ],
+    "cau_en": "to take aim",
+    "cau_vn": "nhắm, nhắm, nhắm bắn",
+    "hash_code_list_mean": "-555461756"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/air_lv_1000_it.json",
@@ -500,7 +608,7 @@
     "index": 36,
     "id_item": "air_lv_1000_it",
     "english": "air",
-    "list_vietnam": [
+    "list_mean": [
       "không khí; bầu không khí; không gian, không trung",
       "khí quyển của trái đất nơi máy bay bay",
       "làn gió nhẹ",
@@ -511,7 +619,10 @@
       "làm thoáng khí, làm thoáng gió, làm thông gió",
       "phô bày, phô trương",
       "bộc lộ, thổ lộ"
-    ]
+    ],
+    "cau_en": "pure air",
+    "cau_vn": "không khí trong sạch",
+    "hash_code_list_mean": "-642039311"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/alarm_lv_1000_it.json",
@@ -519,13 +630,16 @@
     "index": 37,
     "id_item": "alarm_lv_1000_it",
     "english": "alarm",
-    "list_vietnam": [
+    "list_mean": [
       "tiếng động hoặc tín hiệu báo nguy; sự báo động; sự báo nguy",
       "còi báo động; chuông báo động",
       "như alarm-clock",
       "sự sợ hãi; sự lo sợ; sự hoảng hốt; sự hoảng sợ",
       "làm cho hoảng sợ; làm cho lo lắng"
-    ]
+    ],
+    "cau_en": "air-raid alarm",
+    "cau_vn": "báo động phòng không",
+    "hash_code_list_mean": "1947211437"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/album_lv_1000_it.json",
@@ -533,10 +647,13 @@
     "index": 38,
     "id_item": "album_lv_1000_it",
     "english": "album",
-    "list_vietnam": [
+    "list_mean": [
       "quyển sách để giữ một bộ sưu tập ảnh, chữ ký, tem...; an-bom",
       "đĩa quay tốc độ 331 / 3 vòng/phút, ghi nhiều tiết mục của cùng một người biểu diễn"
-    ]
+    ],
+    "cau_en": "This is one of the songs from /on her latest album",
+    "cau_vn": "Đây là mộttrong những bài hát trong an bom mới nhất của cô ấy",
+    "hash_code_list_mean": "-1861416655"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/allow_lv_1000_it.json",
@@ -544,7 +661,7 @@
     "index": 39,
     "id_item": "allow_lv_1000_it",
     "english": "allow",
-    "list_vietnam": [
+    "list_mean": [
       "cho phép ai/cái gì làm cái gì",
       "để cho (cái gì) được làm hoặc xảy ra",
       "cho phép ai/cái gì vào",
@@ -554,7 +671,10 @@
       "( to allow for somebody / something ) kể đến, tính đến; chiếu cố đến, chú ý đến",
       "( to allow of something ) cho phép cái gì; dành chỗ cho cái gì",
       "( to allow somebody in / out / up ) cho phép ai vào/rời đi/đứng dậy"
-    ]
+    ],
+    "cau_en": "my boss doesn't allow me to use the telephone",
+    "cau_vn": "ông chủ tôi không cho phép tôi dùng điện thoại",
+    "hash_code_list_mean": "-783581587"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/all_lv_1000_it.json",
@@ -562,7 +682,7 @@
     "index": 40,
     "id_item": "all_lv_1000_it",
     "english": "all",
-    "list_vietnam": [
+    "list_mean": [
       "(dùng với danh từ số nhiều, danh từ không đếm được, danh từ có thể theo sau the / this / that / these / those , my / his / her ... hoặc một con số) tất cả; hết thảy; toàn bộ; suốt trọn; mọi",
       "lớn nhất có thể được",
       "bất cứ cái gì",
@@ -571,7 +691,10 @@
       "(trong thể thao và trò chơi) cho mỗi bên",
       "hoàn toàn",
       "ở mức độ cao nhất"
-    ]
+    ],
+    "cau_en": "all horses are animals , but not all animals are horses",
+    "cau_vn": "ngựa nào cũng là động vật, nhưng không phải động vật nào cũng là ngựa",
+    "hash_code_list_mean": "-1604239629"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/almost_lv_1000_it.json",
@@ -579,10 +702,13 @@
     "index": 41,
     "id_item": "almost_lv_1000_it",
     "english": "almost",
-    "list_vietnam": [
+    "list_mean": [
       "hầu như, gần như",
       "(dùng trước no , nobody , none , nothing , never ) thực ra, thực tình, kỳ thực"
-    ]
+    ],
+    "cau_en": "it's a mistake they almost always make",
+    "cau_vn": "đó là một lỗi mà hầu như lúc nào họ cũng mắc phải",
+    "hash_code_list_mean": "-2026467848"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/already_lv_1000_it.json",
@@ -590,10 +716,13 @@
     "index": 42,
     "id_item": "already_lv_1000_it",
     "english": "already",
-    "list_vietnam": [
+    "list_mean": [
       "(đặc biệt là dùng với thể hoàn thành của một động từ) đã... rồi",
       "dùng trong câu phủ định hay câu hỏi để tỏ sự ngạc nhiên) ngay khi hoặc ngay từ đầu"
-    ]
+    ],
+    "cau_en": "they have already had breakfast",
+    "cau_vn": "họ đã ăn sáng rồi, họ đã dùng bữa điểm tâm rồi",
+    "hash_code_list_mean": "1599901210"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/also_lv_1000_it.json",
@@ -601,10 +730,13 @@
     "index": 43,
     "id_item": "also_lv_1000_it",
     "english": "also",
-    "list_vietnam": [
+    "list_mean": [
       "(không dùng với động từ ở thể phủ định) cũng, cả, nữa, ngoài ra",
       "(đặt ở đầu câu) hơn nữa, ngoài ra"
-    ]
+    ],
+    "cau_en": "to do this , you can also consult with your friends",
+    "cau_vn": "để làm việc này, anh cũng có thể hội ý với bạn bè",
+    "hash_code_list_mean": "424635642"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/alter_lv_1000_it.json",
@@ -612,11 +744,14 @@
     "index": 44,
     "id_item": "alter_lv_1000_it",
     "english": "alter",
-    "list_vietnam": [
+    "list_mean": [
       "thay đổi, biến đổi, đổi",
       "thay đổi; sửa đổi, sửa lại",
       "( Mỹ, Uc) thiến, hoạn (súc vật)"
-    ]
+    ],
+    "cau_en": "to alter for the better",
+    "cau_vn": "đổi tính, đổi nết trở nên tốt hơn",
+    "hash_code_list_mean": "584634214"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/always_lv_1000_it.json",
@@ -624,11 +759,14 @@
     "index": 45,
     "id_item": "always_lv_1000_it",
     "english": "always",
-    "list_vietnam": [
+    "list_mean": [
       "luôn luôn, lúc nào cũng, bao giờ cũng, hoài",
       "thường xuyên lặp đi lặp lại; luôn luôn; đều đặn",
       "(sau can , could ) dù thế nào chăng nữa"
-    ]
+    ],
+    "cau_en": "my father always gets up early to take exercise",
+    "cau_vn": "cha tôi bao giờ cũng dậy sớm để tập thể dục",
+    "hash_code_list_mean": "-2075291908"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/ambitious_lv_1000_it.json",
@@ -636,9 +774,12 @@
     "index": 46,
     "id_item": "ambitious_lv_1000_it",
     "english": "ambitious",
-    "list_vietnam": [
+    "list_mean": [
       "( ambitious for something ) ( ambitious to be / do something ) có nhiều tham vọng (về sự thành đạt hoặc tiền tài)"
-    ]
+    ],
+    "cau_en": "an ambitious young manager",
+    "cau_vn": "một nhà quản lý trẻ nhiều tham vọng",
+    "hash_code_list_mean": "787084441"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/among_lv_1000_it.json",
@@ -646,12 +787,15 @@
     "index": 47,
     "id_item": "among_lv_1000_it",
     "english": "among",
-    "list_vietnam": [
+    "list_mean": [
       "bị vây quanh bởi ai/cái gì; giữa",
       "nằm trong số (những cái gì); bao gồm trong",
       "(chia phần) cho mỗi thành viên (của một nhóm)",
       "giữa (với nhau)"
-    ]
+    ],
+    "cau_en": "to work among the poor , the sick , the elderly",
+    "cau_vn": "làm việc giữa những người nghèo, người đau ốm, người lớn tuổi",
+    "hash_code_list_mean": "-1188039869"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/analyse_lv_1000_it.json",
@@ -659,9 +803,12 @@
     "index": 48,
     "id_item": "analyse_lv_1000_it",
     "english": "analyse",
-    "list_vietnam": [
+    "list_mean": [
       "chia cái gì thành những bộ phận của nó để nghiên cứu bản chất hoặc cấu trúc của nó; phân tích"
-    ]
+    ],
+    "cau_en": "to analyse a sentence grammatically",
+    "cau_vn": "phân tích ngữ pháp một câu văn",
+    "hash_code_list_mean": "-2140129628"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/and_lv_1000_it.json",
@@ -669,12 +816,15 @@
     "index": 49,
     "id_item": "and_lv_1000_it",
     "english": "and",
-    "list_vietnam": [
+    "list_mean": [
       "và, cùng, với",
       "nếu dường như, tuồng như là",
       "còn",
       "(không dịch)"
-    ]
+    ],
+    "cau_en": "to buy and sell",
+    "cau_vn": "mua và bán",
+    "hash_code_list_mean": "1768674255"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/anger_lv_1000_it.json",
@@ -682,10 +832,13 @@
     "index": 50,
     "id_item": "anger_lv_1000_it",
     "english": "anger",
-    "list_vietnam": [
+    "list_mean": [
       "sự tức giận, sự giận dữ",
       "chọc tức, làm tức giận"
-    ]
+    ],
+    "cau_en": "fit of anger",
+    "cau_vn": "cơn tức giận",
+    "hash_code_list_mean": "-2023715479"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/angle_lv_1000_it.json",
@@ -693,7 +846,7 @@
     "index": 51,
     "id_item": "angle_lv_1000_it",
     "english": "angle",
-    "list_vietnam": [
+    "list_mean": [
       "góc",
       "góc (của một toà nhà hoặc một đồ vật)",
       "(nghĩa bóng) quan điểm, góc độ",
@@ -702,7 +855,10 @@
       "(từ cổ,nghĩa cổ) lưỡi câu",
       "câu cá",
       "( to angle for something ) cố giành được cái gì bằng cách nói bóng gió"
-    ]
+    ],
+    "cau_en": "acute angle",
+    "cau_vn": "góc nhọn",
+    "hash_code_list_mean": "1999096649"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/angrily_lv_1000_it.json",
@@ -710,9 +866,12 @@
     "index": 52,
     "id_item": "angrily_lv_1000_it",
     "english": "angrily",
-    "list_vietnam": [
+    "list_mean": [
       "giận dữ, cáu"
-    ]
+    ],
+    "cau_en": "she answers angrily",
+    "cau_vn": "cô ta trả lời một cách giận dữ",
+    "hash_code_list_mean": "39544314"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/animal_lv_1000_it.json",
@@ -720,13 +879,16 @@
     "index": 53,
     "id_item": "animal_lv_1000_it",
     "english": "animal",
-    "list_vietnam": [
+    "list_mean": [
       "sinh vật có cảm xúc và tự di chuyển được; động vật",
       "sinh vật có bốn chân; thú vật",
       "người hung tợn dữ dằn",
       "(thuộc) động vật; (thuộc) thú vật",
       "(thuộc) xác thịt"
-    ]
+    ],
+    "cau_en": "Men , dogs , birds , flies , fish and snakes are all animals",
+    "cau_vn": "Người, chó, chim, ruồi, cá và rắn đều là động vật",
+    "hash_code_list_mean": "1802467514"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/ankle_lv_1000_it.json",
@@ -734,9 +896,12 @@
     "index": 54,
     "id_item": "ankle_lv_1000_it",
     "english": "ankle",
-    "list_vietnam": [
+    "list_mean": [
       "mắt cá chân"
-    ]
+    ],
+    "cau_en": "to kick (knock ) one's ankles",
+    "cau_vn": "đi hai chân chạm mắt cá nhau",
+    "hash_code_list_mean": "552262596"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/announce_lv_1000_it.json",
@@ -744,11 +909,14 @@
     "index": 55,
     "id_item": "announce_lv_1000_it",
     "english": "announce",
-    "list_vietnam": [
+    "list_mean": [
       "làm cho mọi người biết điều gì; báo; loan báo",
       "thông báo sự có mặt hoặc đến của ai/cái gì",
       "giới thiệu (một người thuyết minh, ca sĩ...) trên truyền thanh, truyền hình...."
-    ]
+    ],
+    "cau_en": "they announced their engagement to their family",
+    "cau_vn": "họ báo cho gia đình biết họ đã hứa hôn",
+    "hash_code_list_mean": "1300337790"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/answer_lv_1000_it.json",
@@ -756,7 +924,7 @@
     "index": 56,
     "id_item": "answer_lv_1000_it",
     "english": "answer",
-    "list_vietnam": [
+    "list_mean": [
       "( answer to somebody / something ) sự trả lời; câu trả lời; thư trả lời",
       "sự giải đáp, lời giải đáp",
       "(thể dục,thể thao) miếng đánh trả (đấu kiếm)",
@@ -767,7 +935,10 @@
       "( to answer for somebody / something ) chịu trách nhiệm hoặc bị khiển trách về điều gì; nóithay mặt cho ai hoặc để ủng hộ cái gì",
       "( to answer to somebody for something ) chịu trách nhiệm trước ai về điều gì",
       "( to answer to something ) chịu sự điều khiển của..."
-    ]
+    ],
+    "cau_en": "the answer he gave was quite astonishing",
+    "cau_vn": "câu trả lời nó đưa ra thật đáng kinh ngạc",
+    "hash_code_list_mean": "-438927327"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/ant_lv_1000_it.json",
@@ -775,9 +946,12 @@
     "index": 57,
     "id_item": "ant_lv_1000_it",
     "english": "ant",
-    "list_vietnam": [
+    "list_mean": [
       "(động vật học) con kiến"
-    ]
+    ],
+    "cau_en": "red (wood ) ant",
+    "cau_vn": "kiến lửa",
+    "hash_code_list_mean": "525790341"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/anxious_lv_1000_it.json",
@@ -785,11 +959,14 @@
     "index": 58,
     "id_item": "anxious_lv_1000_it",
     "english": "anxious",
-    "list_vietnam": [
+    "list_mean": [
       "( anxious about / for somebody / something ) lo âu; băn khoăn; khắc khoải",
       "gây ra nỗi lo âu",
       "( anxious for something / to do something / that ...) rất mong muốn cái gì; nóng lòng"
-    ]
+    ],
+    "cau_en": "an anxious mother",
+    "cau_vn": "một bà mẹ hay lo",
+    "hash_code_list_mean": "-1643997416"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/anywhere_lv_1000_it.json",
@@ -797,10 +974,13 @@
     "index": 59,
     "id_item": "anywhere_lv_1000_it",
     "english": "anywhere",
-    "list_vietnam": [
+    "list_mean": [
       "bất kỳ chỗ nào, bất cứ nơi đâu",
       "một chỗ nào đó; một nơi nào đó"
-    ]
+    ],
+    "cau_en": "I cannot see it anywhere",
+    "cau_vn": "tôi không thể thấy nó ở đâu cả",
+    "hash_code_list_mean": "-2134547441"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/any_lv_1000_it.json",
@@ -808,14 +988,17 @@
     "index": 60,
     "id_item": "any_lv_1000_it",
     "english": "any",
-    "list_vietnam": [
+    "list_mean": [
       "(dùng để chỉ một số lượng không xác định)",
       "mọi; bất cứ",
       "bình thường; thông thường",
       "(dùng trong câu phủ định và câu hỏi, sau if / whether , hardly , never , without ...) một số lượng không xác định",
       "bất cứ",
       "một chút nào, một tí nào (trong câu phủ định, câu hỏi dạng so sánh)"
-    ]
+    ],
+    "cau_en": "have you any book (s )?",
+    "cau_vn": "anh có quyển sách nào không?",
+    "hash_code_list_mean": "1428686766"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/appeal_lv_1000_it.json",
@@ -823,7 +1006,7 @@
     "index": 61,
     "id_item": "appeal_lv_1000_it",
     "english": "appeal",
-    "list_vietnam": [
+    "list_mean": [
       "( appeal to somebody for something ) yêu cầu khẩn khoản",
       "yêu cầu giúp đỡ và thông cảm",
       "sự hấp dẫn, sự thích thú",
@@ -833,7 +1016,10 @@
       "hấp dẫn; lôi cuốn",
       "( to appeal to something ) ( to appeal against something ) kháng cáo; chống án",
       "( to appeal to somebody ) ( to appeal for / against something ) yêu cầu (trọng tài) tuyên bố một cầu thủ phải ra sân hoặc một quyết định gì khác"
-    ]
+    ],
+    "cau_en": "an appeal for help , food , extra staff",
+    "cau_vn": "việc kêu gọi cứu giúp, cung cấp thức ăn, thêm nhân viên",
+    "hash_code_list_mean": "552744679"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/appear_lv_1000_it.json",
@@ -841,14 +1027,17 @@
     "index": 62,
     "id_item": "appear_lv_1000_it",
     "english": "appear",
-    "list_vietnam": [
+    "list_mean": [
       "xuất hiện, hiện ra, ló ra",
       "đến",
       "trình diện; ra mắt",
       "hành động với tư cách một luật sư ở toà án",
       "được xuất bản (sách)",
       "té ra, hoá ra, xem ra"
-    ]
+    ],
+    "cau_en": "a ship appeared on the horizon",
+    "cau_vn": "một con tàu xuất hiện ở chân trời",
+    "hash_code_list_mean": "-1987525338"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/apply_lv_1000_it.json",
@@ -856,7 +1045,7 @@
     "index": 63,
     "id_item": "apply_lv_1000_it",
     "english": "apply",
-    "list_vietnam": [
+    "list_mean": [
       "( to apply something to something ) đặt hoặc phết cái gì vào cái gì",
       "gây ra (một lực...) để tác động cái gì",
       "ứng dụng, áp dụng",
@@ -864,7 +1053,10 @@
       "( to apply to somebody for something ) đưa ra một yêu cầu chính thức",
       "tiếp xúc với ai để biết tin tức",
       "( to apply to somebody / something ) thích hợp với ai/cái gì; có hiệu lực; có hiệu quả"
-    ]
+    ],
+    "cau_en": "to apply plaster to the wound",
+    "cau_vn": "đắp thuốc vào vết thương",
+    "hash_code_list_mean": "-1179774516"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/appoint_lv_1000_it.json",
@@ -872,12 +1064,15 @@
     "index": 64,
     "id_item": "appoint_lv_1000_it",
     "english": "appoint",
-    "list_vietnam": [
+    "list_mean": [
       "( to appoint somebody to something ) chọn một người vào một công việc hay một đơn vị có trách nhiệm; cử; bổ nhiệm",
       "tạo ra (cái gì) bằng cách chọn các thành viên",
       "( to appoint something for something ) định, hẹn (ngày, giờ...)",
       "trang bị; chu cấp"
-    ]
+    ],
+    "cau_en": "they have appointed Mr Smith/a new manager",
+    "cau_vn": "họ đã bổ nhiệm ông Smith/một người quản lý mới",
+    "hash_code_list_mean": "104244174"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/appreciate_lv_1000_it.json",
@@ -885,12 +1080,15 @@
     "index": 65,
     "id_item": "appreciate_lv_1000_it",
     "english": "appreciate",
-    "list_vietnam": [
+    "list_mean": [
       "đánh giá đúng, đánh giá cao, hiểu rõ giá trị, thưởng thức",
       "hiểu (cái gì) với sự thông cảm",
       "cảm kích",
       "lên giá (hàng hoá...), tăng giá trị"
-    ]
+    ],
+    "cau_en": "you can't fully appreciate foreign literature in translation",
+    "cau_vn": "anh không thể thưởng thức đầy đủ văn học nước ngoài qua bản dịch",
+    "hash_code_list_mean": "-214354245"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/approach_lv_1000_it.json",
@@ -898,7 +1096,7 @@
     "index": 66,
     "id_item": "approach_lv_1000_it",
     "english": "approach",
-    "list_vietnam": [
+    "list_mean": [
       "sự đến gần, sự lại gần",
       "sự gần như, sự gần giống như",
       "đường đi đến, lối vào",
@@ -911,7 +1109,10 @@
       "gần như",
       "thăm dò ý kiến; tiếp xúc để đặt vấn đề",
       "bắt đầu giải quyết; tiếp cận"
-    ]
+    ],
+    "cau_en": "easy of approach",
+    "cau_vn": "(địa điểm) dễ đến; (người) dễ nói chuyện thân thiện, dễ gần gũi",
+    "hash_code_list_mean": "2122561823"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/approve_lv_1000_it.json",
@@ -919,11 +1120,14 @@
     "index": 67,
     "id_item": "approve_lv_1000_it",
     "english": "approve",
-    "list_vietnam": [
+    "list_mean": [
       "chấp thuận; phê chuẩn; phê duyệt; chuẩn y",
       "chứng tỏ; tỏ ra",
       "( to approve of somebody / something ) tán thành; ưng thuận; bằng lòng"
-    ]
+    ],
+    "cau_en": "that peace treaty has been approved by the national assembly",
+    "cau_vn": "hoà ước ấy đã được sự phê chuẩn của quốc hội",
+    "hash_code_list_mean": "1268501161"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/architect_lv_1000_it.json",
@@ -931,10 +1135,13 @@
     "index": 68,
     "id_item": "architect_lv_1000_it",
     "english": "architect",
-    "list_vietnam": [
+    "list_mean": [
       "kiến trúc sư",
       "(nghĩa bóng) người làm ra, người xây dựng, người sáng tạo"
-    ]
+    ],
+    "cau_en": "to be the architect of one's own fortune",
+    "cau_vn": "tự mình xây dựng cơ đồ; tự mình tạo ra cái số phận của mình",
+    "hash_code_list_mean": "1610360917"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/area_lv_1000_it.json",
@@ -942,14 +1149,17 @@
     "index": 69,
     "id_item": "area_lv_1000_it",
     "english": "area",
-    "list_vietnam": [
+    "list_mean": [
       "diện tích, bề mặt",
       "vùng, khu vực",
       "khoảng đất trống",
       "sân trước nhà ở (có hàng rào cách vỉa hè đường)",
       "phạm vi, tầm",
       "(rađiô) vùng"
-    ]
+    ],
+    "cau_en": "area under crop",
+    "cau_vn": "diện tích trồng trọt",
+    "hash_code_list_mean": "-1948404076"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/argue_lv_1000_it.json",
@@ -957,12 +1167,15 @@
     "index": 70,
     "id_item": "argue_lv_1000_it",
     "english": "argue",
-    "list_vietnam": [
+    "list_mean": [
       "( to argue with somebody about / over something ) diễn đạt một ý kiến đối lập; trao đổi những lời lẽ giận dữ; cãi nhau; tranh cãi",
       "( to argue for / against something ) đưa ra lý lẽ ủng hộ hoặc chống lại cái gì để thuyết phục ai; biện luận",
       "bàn cãi (cái gì); tranh luận",
       "( to argue somebody into / out of doing something ) thuyết phục ai làm/đừng làm điều gì"
-    ]
+    ],
+    "cau_en": "the couple next door are always arguing",
+    "cau_vn": "cặp vợ chồng ben cạnh cãi nhau suốt",
+    "hash_code_list_mean": "340042359"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/arise_lv_1000_it.json",
@@ -970,13 +1183,16 @@
     "index": 71,
     "id_item": "arise_lv_1000_it",
     "english": "arise",
-    "list_vietnam": [
+    "list_mean": [
       "xuất hiện, nảy sinh ra, xảy ra",
       "phát sinh do; do bởi",
       "(thơ ca) sống lại, hồi sinh",
       "(từ cổ,nghĩa cổ) mọc lên; trở dậy",
       "(từ Mỹ,nghĩa Mỹ), (từ cổ,nghĩa cổ) nổi lên, vọng đến, vang đến (tiếng âm thanh)"
-    ]
+    ],
+    "cau_en": "more difficulties arose",
+    "cau_vn": "nhiều khó khăn nảy sinh ra",
+    "hash_code_list_mean": "1014381048"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/arm_lv_1000_it.json",
@@ -984,7 +1200,7 @@
     "index": 72,
     "id_item": "arm_lv_1000_it",
     "english": "arm",
-    "list_vietnam": [
+    "list_mean": [
       "cánh tay",
       "ống tay áo",
       "cái có hình như cánh tay hoặc hoạt động như cánh tay; nhánh",
@@ -993,7 +1209,10 @@
       "sự phục vụ trong quân ngũ; binh nghiệp",
       "( to arm oneself / somebody with something ) trang bị vũ khí cho bản thân/ai; chuẩn bị chiến đấu",
       "lên đạn (súng), tháo chốt (lựu đạn)"
-    ]
+    ],
+    "cau_en": "she held the baby in her arms",
+    "cau_vn": "cô ta ôm đứa bé trong tay",
+    "hash_code_list_mean": "-1907582001"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/arrange_lv_1000_it.json",
@@ -1001,7 +1220,7 @@
     "index": 73,
     "id_item": "arrange_lv_1000_it",
     "english": "arrange",
-    "list_vietnam": [
+    "list_mean": [
       "sắp xếp, sắp đặt, sửa soạn",
       "thu xếp; chuẩn bị",
       "dàn xếp, hoà giải (một cuộc cãi nhau...)",
@@ -1012,7 +1231,10 @@
       "thu xếp; chuẩn bị",
       "dàn xếp, đồng ý, thoả thuận",
       "(quân sự) đứng thành hàng ngũ chỉnh tề"
-    ]
+    ],
+    "cau_en": "arrange in alphabetical order",
+    "cau_vn": "sắp xếp theo thứ tự abc",
+    "hash_code_list_mean": "-2113815807"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/arrest_lv_1000_it.json",
@@ -1020,7 +1242,7 @@
     "index": 74,
     "id_item": "arrest_lv_1000_it",
     "english": "arrest",
-    "list_vietnam": [
+    "list_mean": [
       "sự bắt giữ",
       "sự ngừng lại, sự chặn lại, sự hãm lại",
       "(pháp lý) sự hoãn thi hành",
@@ -1028,7 +1250,10 @@
       "làm ngừng lại, chặn lại, ngăn lại, hãm lại (máy đang chạy...)",
       "lôi cuốn (sự chú ý)",
       "(pháp lý) hoãn thi hành (một bản án vì có sự lầm lẫn)"
-    ]
+    ],
+    "cau_en": "a warrant of arrest",
+    "cau_vn": "lệnh câu lưu, lệnh bắt giam",
+    "hash_code_list_mean": "-1368623173"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/arrive_lv_1000_it.json",
@@ -1036,12 +1261,15 @@
     "index": 75,
     "id_item": "arrive_lv_1000_it",
     "english": "arrive",
-    "list_vietnam": [
+    "list_mean": [
       "tới (một nơi), nhất là sau một chuyến đi",
       "(nói về một sự kiện trong thời gian) đến",
       "trở nên nổi tiếng hoặc thành công",
       "đạt được (cái gì)"
-    ]
+    ],
+    "cau_en": "to arrive at school",
+    "cau_vn": "đến trường",
+    "hash_code_list_mean": "-14639867"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/art_lv_1000_it.json",
@@ -1049,12 +1277,15 @@
     "index": 76,
     "id_item": "art_lv_1000_it",
     "english": "art",
-    "list_vietnam": [
+    "list_mean": [
       "nghệ thuật; mỹ thuật",
       "( số nhiều) những đề tài nghiên cứu (ngôn ngữ, (văn học), lịch sử chẳng hạn) mà trong đó, tài sáng tạo và tưởng tượng cần thiết hơn là sự tính toán và đo lường chính xác",
       "tài riêng; sự khéo tay",
       "mưu mẹo; thủ đoạn"
-    ]
+    ],
+    "cau_en": "the art of the Renaissance",
+    "cau_vn": "nghệ thuật thời Phục Hưng",
+    "hash_code_list_mean": "-1078639416"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/ask_lv_1000_it.json",
@@ -1062,13 +1293,16 @@
     "index": 77,
     "id_item": "ask_lv_1000_it",
     "english": "ask",
-    "list_vietnam": [
+    "list_mean": [
       "( to ask somebody about somebody / something ; to ask something of somebody ) yêu cầu thông tin (về ai/cái gì); hỏi",
       "( to ask something of somebody / somebody for something ) yêu cầu ai cho cái gì hoặc làm gì",
       "xin phép làm cái gì",
       "( to ask somebody to something ) mời ăn",
       "đòi hỏi"
-    ]
+    ],
+    "cau_en": "to ask the time",
+    "cau_vn": "hỏi giờ",
+    "hash_code_list_mean": "2028256200"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/assess_lv_1000_it.json",
@@ -1076,11 +1310,14 @@
     "index": 78,
     "id_item": "assess_lv_1000_it",
     "english": "assess",
-    "list_vietnam": [
+    "list_mean": [
       "quyết định hoặc ấn định số lượng của cái gì; ước định",
       "quyết định hoặc ấn định giá trị của cái gì; đánh giá; định giá",
       "ước lượng chất lượng cái gì; đánh giá"
-    ]
+    ],
+    "cau_en": "to assess somebody's taxes /income",
+    "cau_vn": "ấn định thuế/thu nhập của ai",
+    "hash_code_list_mean": "179908644"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/assist_lv_1000_it.json",
@@ -1088,10 +1325,13 @@
     "index": 79,
     "id_item": "assist_lv_1000_it",
     "english": "assist",
-    "list_vietnam": [
+    "list_mean": [
       "( to assist somebody in / with something , to assist somebody in doing something ) giúp đỡ, trợ lý, cộng sự",
       "( to assist at / in something ) có mặt tại hoặc tham dự cái gì"
-    ]
+    ],
+    "cau_en": "The head teacher's deputy assists with many of his duties",
+    "cau_vn": "ông hiệu phó giúp ông hiệu trưởng trong nhiều nhiệm vụ",
+    "hash_code_list_mean": "1989581793"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/associate_lv_1000_it.json",
@@ -1099,7 +1339,7 @@
     "index": 80,
     "id_item": "associate_lv_1000_it",
     "english": "associate",
-    "list_vietnam": [
+    "list_mean": [
       "kết giao, kết hợp liên hợp; liên đới",
       "(từ Mỹ,nghĩa Mỹ) cùng cộng tác, phụ, phó, trợ",
       "bạn đồng liêu, người cùng cộng tác; đồng minh",
@@ -1109,7 +1349,10 @@
       "liên tưởng (những ý nghĩ)",
       "kết giao, kết bạn với, giao thiệp với",
       "hợp sức; liên hợp lại (vì mục đích chung), liên kết lại"
-    ]
+    ],
+    "cau_en": "associate societies",
+    "cau_vn": "hội liên hiệp",
+    "hash_code_list_mean": "-1647712711"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/assume_lv_1000_it.json",
@@ -1117,13 +1360,16 @@
     "index": 81,
     "id_item": "assume_lv_1000_it",
     "english": "assume",
-    "list_vietnam": [
+    "list_mean": [
       "cho rằng; thừa nhận",
       "mang, khoác, có, lấy (cái vẻ, tính chất...)",
       "làm ra vẻ, giả bộ",
       "nắm lấy, chiếm lấy",
       "đảm đương, gánh vác, nhận vào mình"
-    ]
+    ],
+    "cau_en": "We cannot assume anything in this case",
+    "cau_vn": "Chúng tôi không thể thừa nhận điều gì trong vụ này",
+    "hash_code_list_mean": "-1756339486"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/atmosphere_lv_1000_it.json",
@@ -1131,11 +1377,14 @@
     "index": 82,
     "id_item": "atmosphere_lv_1000_it",
     "english": "atmosphere",
-    "list_vietnam": [
+    "list_mean": [
       "khí quyển",
       "không khí (nghĩa đen) & (nghĩa bóng)",
       "(vật lý) át-mốt-phe"
-    ]
+    ],
+    "cau_en": "upper atmosphere",
+    "cau_vn": "tầng khí quyển cao",
+    "hash_code_list_mean": "299890608"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/atom_lv_1000_it.json",
@@ -1143,11 +1392,14 @@
     "index": 83,
     "id_item": "atom_lv_1000_it",
     "english": "atom",
-    "list_vietnam": [
+    "list_mean": [
       "nguyên tử",
       "(thông tục) mảnh nhỏ, vật nhỏ",
       "( định ngữ) (thuộc) nguyên tử"
-    ]
+    ],
+    "cau_en": "struck atom",
+    "cau_vn": "nguyên tử bị bắn phá",
+    "hash_code_list_mean": "1159555965"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/attach_lv_1000_it.json",
@@ -1155,14 +1407,17 @@
     "index": 84,
     "id_item": "attach_lv_1000_it",
     "english": "attach",
-    "list_vietnam": [
+    "list_mean": [
       "( to attach something to something ) gắn, dán, trói buộc",
       "( to attach oneself to somebody / something ) nhập bọn, tham gia (dù không được mời)",
       "( to attach somebody to somebody / something ) biệt phái",
       "( to attach something to somebody / something ) coi; cho là; gán cho",
       "(pháp lý) bắt giữ (ai); tịch biên (gia sản...)",
       "gắn liền với"
-    ]
+    ],
+    "cau_en": "To attach a label to a bag",
+    "cau_vn": "Dán nhãn vào cái túi",
+    "hash_code_list_mean": "765879916"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/attack_lv_1000_it.json",
@@ -1170,14 +1425,17 @@
     "index": 85,
     "id_item": "attack_lv_1000_it",
     "english": "attack",
-    "list_vietnam": [
+    "list_mean": [
       "sự tấn công, sự công kích",
       "cơn (bệnh)",
       "tấn công, công kích",
       "bắt đầu, bắt tay vào, lao vào (công việc)",
       "ăn mòn ( axit)",
       "tấn công, bắt đầu chiến sự"
-    ]
+    ],
+    "cau_en": "to make an attack on enemy positions",
+    "cau_vn": "tấn công các vị trí địch",
+    "hash_code_list_mean": "-1941785707"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/attempt_lv_1000_it.json",
@@ -1185,13 +1443,16 @@
     "index": 86,
     "id_item": "attempt_lv_1000_it",
     "english": "attempt",
-    "list_vietnam": [
+    "list_mean": [
       "( attempt to do something / at doing something ) sự cố gắng, sự thử",
       "( attempt at something ) vật do ai tạo ra khi cố thực hiện cái gì",
       "( attempt on something ) nỗ lực nhằm hoàn thiện hơn hoặc chấm dứt cái gì; sự tấn công",
       "cố gắng làm cái gì; thử làm cái gì",
       "cố gắng vượt qua (quả núi...); cố gắng đánh chiếm (đồn lính....)"
-    ]
+    ],
+    "cau_en": "They made no attempt to break out of jail /at breaking out of jail",
+    "cau_vn": "Họ không hề tìm cách vượt ngục",
+    "hash_code_list_mean": "-2025750746"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/attend_lv_1000_it.json",
@@ -1199,12 +1460,15 @@
     "index": 87,
     "id_item": "attend_lv_1000_it",
     "english": "attend",
-    "list_vietnam": [
+    "list_mean": [
       "( to attend to somebody / something ) rất chú tâm; rất cẩn thận",
       "( to attend to somebody ) chăm sóc; phục vụ",
       "trông nom; chăm sóc",
       "đi đều đặn đến nơi nào đó; có mặt tại nơi nào đó"
-    ]
+    ],
+    "cau_en": "why weren't you attending when I explained before ?",
+    "cau_vn": "tại sao anh không chú ý khi tôi giải thích?",
+    "hash_code_list_mean": "-1915658644"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/attentive_lv_1000_it.json",
@@ -1212,11 +1476,14 @@
     "index": 88,
     "id_item": "attentive_lv_1000_it",
     "english": "attentive",
-    "list_vietnam": [
+    "list_mean": [
       "chăm chú",
       "chú ý, lưu tâm",
       "ân cần, chu đáo"
-    ]
+    ],
+    "cau_en": "to be attentive to somebody",
+    "cau_vn": "ân cần với ai",
+    "hash_code_list_mean": "896796350"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/attract_lv_1000_it.json",
@@ -1224,10 +1491,13 @@
     "index": 89,
     "id_item": "attract_lv_1000_it",
     "english": "attract",
-    "list_vietnam": [
+    "list_mean": [
       "(vật lý) hút",
       "thu hút, hấp dẫn, lôi cuốn"
-    ]
+    ],
+    "cau_en": "magnet attracts iron",
+    "cau_vn": "nam châm hút sắt",
+    "hash_code_list_mean": "145687351"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/audience_lv_1000_it.json",
@@ -1235,10 +1505,13 @@
     "index": 90,
     "id_item": "audience_lv_1000_it",
     "english": "audience",
-    "list_vietnam": [
+    "list_mean": [
       "nhóm người tụ hội lại với nhau để nghe hoặc xem ai/cái gì; khán giả; thính giả; cử toạ",
       "sự yết kiến; sự tiếp kiến"
-    ]
+    ],
+    "cau_en": "the audience was /were enthusiastic on the opening night of the play",
+    "cau_vn": "khán giả hân hoan đón tiếp buổi tối mở màn diễn vở kịch",
+    "hash_code_list_mean": "835992996"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/author_lv_1000_it.json",
@@ -1246,11 +1519,14 @@
     "index": 91,
     "id_item": "author_lv_1000_it",
     "english": "author",
-    "list_vietnam": [
+    "list_mean": [
       "tác giả",
       "người tạo ra, người gây ra",
       "(tôn giáo) Đấng sáng tạo ( Chúa)"
-    ]
+    ],
+    "cau_en": "author of evil",
+    "cau_vn": "người gây ra các điều ác",
+    "hash_code_list_mean": "-542159735"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/avalanche_lv_1000_it.json",
@@ -1258,11 +1534,14 @@
     "index": 92,
     "id_item": "avalanche_lv_1000_it",
     "english": "avalanche",
-    "list_vietnam": [
+    "list_mean": [
       "tuyết lở",
       "(nghĩa bóng) loạt dồn dập, tràng dồn dập \"mưa\"",
       "(vật lý) thác"
-    ]
+    ],
+    "cau_en": "an avalanche of questions",
+    "cau_vn": "một loạt câu hỏi dồn dập",
+    "hash_code_list_mean": "2050913401"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/average_lv_1000_it.json",
@@ -1270,7 +1549,7 @@
     "index": 93,
     "id_item": "average_lv_1000_it",
     "english": "average",
-    "list_vietnam": [
+    "list_mean": [
       "kết quả của việc cộng các số lượng với nhau rồi chia tổng số cho số các số lượng; số trung bình",
       "chuẩn mực hoặc mức được coi như là thông thường; mức trung bình",
       "(hàng hải) tổn thất của chiếc tàu hoặc hàng hoá trên tàu do gặp nạn trên biển",
@@ -1278,7 +1557,10 @@
       "theo chuẩn mực bình thường hoặc thông thường; trung bình",
       "tìm số trung bình của cái gì",
       "làm hoặc đạt tới cái gì coi như số đo hoặc mức trung bình"
-    ]
+    ],
+    "cau_en": "the average of 4, 5 and 9 is 6",
+    "cau_vn": "số trung bình của 4, 5 và 9 là 6",
+    "hash_code_list_mean": "-1376983239"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/avoid_lv_1000_it.json",
@@ -1286,9 +1568,12 @@
     "index": 94,
     "id_item": "avoid_lv_1000_it",
     "english": "avoid",
-    "list_vietnam": [
+    "list_mean": [
       "tránh, tránh xa, ngăn ngừa"
-    ]
+    ],
+    "cau_en": "to avoid smoking",
+    "cau_vn": "tránh hút thuốc lá",
+    "hash_code_list_mean": "-1134982247"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/awake_lv_1000_it.json",
@@ -1296,13 +1581,16 @@
     "index": 95,
     "id_item": "awake_lv_1000_it",
     "english": "awake",
-    "list_vietnam": [
+    "list_mean": [
       "(làm cho một người hoặc một động vật) thôi ngủ, đánh thức; thức giấc",
       "(làm cho cái gì) trở nên hoạt động",
       "( to awake to something ) nhận ra cái gì; nhận thức được cái gì",
       "tỉnh, thức, không ngủ",
       "( awake to something ) ý thức, nhận thức rõ"
-    ]
+    ],
+    "cau_en": "he awoke the sleeping child",
+    "cau_vn": "anh ấy đánh thức đứa bé đang ngủ",
+    "hash_code_list_mean": "468602499"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/away_lv_1000_it.json",
@@ -1310,12 +1598,15 @@
     "index": 96,
     "id_item": "away_lv_1000_it",
     "english": "away",
-    "list_vietnam": [
+    "list_mean": [
       "xa, xa cách, rời xa, xa ra, đi (xa)",
       "biến đi, mất đi, hết đi",
       "không ngừng liên tục",
       "không chậm trễ, ngay lập tức"
-    ]
+    ],
+    "cau_en": "away from home",
+    "cau_vn": "xa nhà",
+    "hash_code_list_mean": "558256018"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/axis_lv_1000_it.json",
@@ -1323,13 +1614,16 @@
     "index": 97,
     "id_item": "axis_lv_1000_it",
     "english": "axis",
-    "list_vietnam": [
+    "list_mean": [
       "trục",
       "(vật lý) tia xuyên",
       "(chính trị) trục Béc-lin, Rô-ma, Tô-ki-ô (khối liên minh)",
       "( định ngữ) (thuộc) trục Béc-lin, Rô-ma, Tô-ki-ô",
       "(động vật học) hươu sao ( (cũng) axis deer )"
-    ]
+    ],
+    "cau_en": "earth's axis",
+    "cau_vn": "trục quả đất",
+    "hash_code_list_mean": "287309378"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/baby_lv_1000_it.json",
@@ -1337,13 +1631,16 @@
     "index": 98,
     "id_item": "baby_lv_1000_it",
     "english": "baby",
-    "list_vietnam": [
+    "list_mean": [
       "đứa bé mới sinh; trẻ thơ",
       "người tính trẻ con",
       "( định ngữ) nhỏ; xinh xinh",
       "(từ Mỹ,nghĩa Mỹ), (từ lóng) người yêu; con gái",
       "đối xử như trẻ con, nuông chìu"
-    ]
+    ],
+    "cau_en": "a baby car",
+    "cau_vn": "chiếc ôtô nhỏ",
+    "hash_code_list_mean": "-315731708"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/backbone_lv_1000_it.json",
@@ -1351,10 +1648,13 @@
     "index": 99,
     "id_item": "backbone_lv_1000_it",
     "english": "backbone",
-    "list_vietnam": [
+    "list_mean": [
       "xương sống",
       "(nghĩa bóng) xương sống, cột trụ",
       "(nghĩa bóng) nghị lực; sức mạnh"
-    ]
+    ],
+    "cau_en": "he is the backbone of the football team",
+    "cau_vn": "anh ấy là cột trụ của đội bóng",
+    "hash_code_list_mean": "673040572"
   }
 ]
