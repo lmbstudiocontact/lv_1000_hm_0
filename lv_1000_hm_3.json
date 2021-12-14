@@ -1,8 +1,40 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/contribute_lv_1000_it.json",
-    "total": 1665,
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/contaminate_lv_1000_it.json",
+    "total": 1673,
     "index": 300,
+    "id_item": "contaminate_lv_1000_it",
+    "english": "contaminate",
+    "list_mean": [
+      "làm bẩn, làm ô uế",
+      "làm nhiễm (bệnh)",
+      "làm hư hỏng"
+    ],
+    "cau_en": "to be contaminated by companions",
+    "cau_vn": "bị bạn xấu làm hư hỏng",
+    "hash_code_list_mean": "1927227919"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/continue_lv_1000_it.json",
+    "total": 1673,
+    "index": 301,
+    "id_item": "continue_lv_1000_it",
+    "english": "continue",
+    "list_mean": [
+      "tiếp tục, làm tiếp",
+      "giữ, duy trì",
+      "vẫn cứ, tiếp diễn",
+      "ở lại",
+      "(pháp lý) hoãn lại, đình lại (một vụ kiện)"
+    ],
+    "cau_en": "if you continue to be stubborn",
+    "cau_vn": "nếu anh vẫn cứ cứng đầu cứng cổ",
+    "hash_code_list_mean": "-1687032602"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/contribute_lv_1000_it.json",
+    "total": 1673,
+    "index": 302,
     "id_item": "contribute_lv_1000_it",
     "english": "contribute",
     "list_mean": [
@@ -14,8 +46,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/control_lv_1000_it.json",
-    "total": 1665,
-    "index": 301,
+    "total": 1673,
+    "index": 303,
     "id_item": "control_lv_1000_it",
     "english": "control",
     "list_mean": [
@@ -36,8 +68,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/convert_lv_1000_it.json",
-    "total": 1665,
-    "index": 302,
+    "total": 1673,
+    "index": 304,
     "id_item": "convert_lv_1000_it",
     "english": "convert",
     "list_mean": [
@@ -53,8 +85,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cook_lv_1000_it.json",
-    "total": 1665,
-    "index": 303,
+    "total": 1673,
+    "index": 305,
     "id_item": "cook_lv_1000_it",
     "english": "cook",
     "list_mean": [
@@ -69,8 +101,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cool_lv_1000_it.json",
-    "total": 1665,
-    "index": 304,
+    "total": 1673,
+    "index": 306,
     "id_item": "cool_lv_1000_it",
     "english": "cool",
     "list_mean": [
@@ -90,8 +122,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cope_lv_1000_it.json",
-    "total": 1665,
-    "index": 305,
+    "total": 1673,
+    "index": 307,
     "id_item": "cope_lv_1000_it",
     "english": "cope",
     "list_mean": [
@@ -112,8 +144,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/copy_lv_1000_it.json",
-    "total": 1665,
-    "index": 306,
+    "total": 1673,
+    "index": 308,
     "id_item": "copy_lv_1000_it",
     "english": "copy",
     "list_mean": [
@@ -132,8 +164,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/coral_lv_1000_it.json",
-    "total": 1665,
-    "index": 307,
+    "total": 1673,
+    "index": 309,
     "id_item": "coral_lv_1000_it",
     "english": "coral",
     "list_mean": [
@@ -149,8 +181,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/corner_lv_1000_it.json",
-    "total": 1665,
-    "index": 308,
+    "total": 1673,
+    "index": 310,
     "id_item": "corner_lv_1000_it",
     "english": "corner",
     "list_mean": [
@@ -172,8 +204,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/corn_lv_1000_it.json",
-    "total": 1665,
-    "index": 309,
+    "total": 1673,
+    "index": 311,
     "id_item": "corn_lv_1000_it",
     "english": "corn",
     "list_mean": [
@@ -192,8 +224,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/correct_lv_1000_it.json",
-    "total": 1665,
-    "index": 310,
+    "total": 1673,
+    "index": 312,
     "id_item": "correct_lv_1000_it",
     "english": "correct",
     "list_mean": [
@@ -209,8 +241,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cost_lv_1000_it.json",
-    "total": 1665,
-    "index": 311,
+    "total": 1673,
+    "index": 313,
     "id_item": "cost_lv_1000_it",
     "english": "cost",
     "list_mean": [
@@ -229,8 +261,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cotton_lv_1000_it.json",
-    "total": 1665,
-    "index": 312,
+    "total": 1673,
+    "index": 314,
     "id_item": "cotton_lv_1000_it",
     "english": "cotton",
     "list_mean": [
@@ -247,8 +279,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/could_lv_1000_it.json",
-    "total": 1665,
-    "index": 313,
+    "total": 1673,
+    "index": 315,
     "id_item": "could_lv_1000_it",
     "english": "could",
     "list_mean": [
@@ -265,8 +297,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/country_lv_1000_it.json",
-    "total": 1665,
-    "index": 314,
+    "total": 1673,
+    "index": 316,
     "id_item": "country_lv_1000_it",
     "english": "country",
     "list_mean": [
@@ -282,8 +314,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/count_lv_1000_it.json",
-    "total": 1665,
-    "index": 315,
+    "total": 1673,
+    "index": 317,
     "id_item": "count_lv_1000_it",
     "english": "count",
     "list_mean": [
@@ -305,8 +337,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/course_lv_1000_it.json",
-    "total": 1665,
-    "index": 316,
+    "total": 1673,
+    "index": 318,
     "id_item": "course_lv_1000_it",
     "english": "course",
     "list_mean": [
@@ -331,8 +363,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cover_lv_1000_it.json",
-    "total": 1665,
-    "index": 317,
+    "total": 1673,
+    "index": 319,
     "id_item": "cover_lv_1000_it",
     "english": "cover",
     "list_mean": [
@@ -363,8 +395,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cow_lv_1000_it.json",
-    "total": 1665,
-    "index": 318,
+    "total": 1673,
+    "index": 320,
     "id_item": "cow_lv_1000_it",
     "english": "cow",
     "list_mean": [
@@ -378,8 +410,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crazy_lv_1000_it.json",
-    "total": 1665,
-    "index": 319,
+    "total": 1673,
+    "index": 321,
     "id_item": "crazy_lv_1000_it",
     "english": "crazy",
     "list_mean": [
@@ -394,8 +426,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crease_lv_1000_it.json",
-    "total": 1665,
-    "index": 320,
+    "total": 1673,
+    "index": 322,
     "id_item": "crease_lv_1000_it",
     "english": "crease",
     "list_mean": [
@@ -411,8 +443,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/create_lv_1000_it.json",
-    "total": 1665,
-    "index": 321,
+    "total": 1673,
+    "index": 323,
     "id_item": "create_lv_1000_it",
     "english": "create",
     "list_mean": [
@@ -428,8 +460,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/creative_lv_1000_it.json",
-    "total": 1665,
-    "index": 322,
+    "total": 1673,
+    "index": 324,
     "id_item": "creative_lv_1000_it",
     "english": "creative",
     "list_mean": [
@@ -441,8 +473,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/creep_lv_1000_it.json",
-    "total": 1665,
-    "index": 323,
+    "total": 1673,
+    "index": 325,
     "id_item": "creep_lv_1000_it",
     "english": "creep",
     "list_mean": [
@@ -463,8 +495,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crimson_lv_1000_it.json",
-    "total": 1665,
-    "index": 324,
+    "total": 1673,
+    "index": 326,
     "id_item": "crimson_lv_1000_it",
     "english": "crimson",
     "list_mean": [
@@ -478,8 +510,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crop_lv_1000_it.json",
-    "total": 1665,
-    "index": 325,
+    "total": 1673,
+    "index": 327,
     "id_item": "crop_lv_1000_it",
     "english": "crop",
     "list_mean": [
@@ -504,8 +536,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cross_lv_1000_it.json",
-    "total": 1665,
-    "index": 326,
+    "total": 1673,
+    "index": 328,
     "id_item": "cross_lv_1000_it",
     "english": "cross",
     "list_mean": [
@@ -540,8 +572,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crowd_lv_1000_it.json",
-    "total": 1665,
-    "index": 327,
+    "total": 1673,
+    "index": 329,
     "id_item": "crowd_lv_1000_it",
     "english": "crowd",
     "list_mean": [
@@ -563,9 +595,27 @@
     "hash_code_list_mean": "-663349300"
   },
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/crow_lv_1000_it.json",
+    "total": 1673,
+    "index": 330,
+    "id_item": "crow_lv_1000_it",
+    "english": "crow",
+    "list_mean": [
+      "con quạ",
+      "như crowbar",
+      "tiếng gà gáy",
+      "tiếng trẻ con bi bô",
+      "gáy (gà)",
+      "nói bi bô (trẻ con)"
+    ],
+    "cau_en": "she won the competition and won't stop crowing (over her rivals /her rivals' failure )",
+    "cau_vn": "cô ta giành chiến thắng trong cuộc đua và sẽ không ngớt reo mừng (trước các đối thủ/sự thất bại của các đối thủ)",
+    "hash_code_list_mean": "-1419352956"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cry_lv_1000_it.json",
-    "total": 1665,
-    "index": 328,
+    "total": 1673,
+    "index": 331,
     "id_item": "cry_lv_1000_it",
     "english": "cry",
     "list_mean": [
@@ -585,8 +635,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cupboard_lv_1000_it.json",
-    "total": 1665,
-    "index": 329,
+    "total": 1673,
+    "index": 332,
     "id_item": "cupboard_lv_1000_it",
     "english": "cupboard",
     "list_mean": [
@@ -598,8 +648,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/curb_lv_1000_it.json",
-    "total": 1665,
-    "index": 330,
+    "total": 1673,
+    "index": 333,
     "id_item": "curb_lv_1000_it",
     "english": "curb",
     "list_mean": [
@@ -617,8 +667,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/current_lv_1000_it.json",
-    "total": 1665,
-    "index": 331,
+    "total": 1673,
+    "index": 334,
     "id_item": "current_lv_1000_it",
     "english": "current",
     "list_mean": [
@@ -634,8 +684,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/curve_lv_1000_it.json",
-    "total": 1665,
-    "index": 332,
+    "total": 1673,
+    "index": 335,
     "id_item": "curve_lv_1000_it",
     "english": "curve",
     "list_mean": [
@@ -648,8 +698,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cushion_lv_1000_it.json",
-    "total": 1665,
-    "index": 333,
+    "total": 1673,
+    "index": 336,
     "id_item": "cushion_lv_1000_it",
     "english": "cushion",
     "list_mean": [
@@ -671,8 +721,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/cut_lv_1000_it.json",
-    "total": 1665,
-    "index": 334,
+    "total": 1673,
+    "index": 337,
     "id_item": "cut_lv_1000_it",
     "english": "cut",
     "list_mean": [
@@ -709,8 +759,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/daily_lv_1000_it.json",
-    "total": 1665,
-    "index": 335,
+    "total": 1673,
+    "index": 338,
     "id_item": "daily_lv_1000_it",
     "english": "daily",
     "list_mean": [
@@ -724,8 +774,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/damage_lv_1000_it.json",
-    "total": 1665,
-    "index": 336,
+    "total": 1673,
+    "index": 339,
     "id_item": "damage_lv_1000_it",
     "english": "damage",
     "list_mean": [
@@ -740,8 +790,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dance_lv_1000_it.json",
-    "total": 1665,
-    "index": 337,
+    "total": 1673,
+    "index": 340,
     "id_item": "dance_lv_1000_it",
     "english": "dance",
     "list_mean": [
@@ -760,8 +810,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/danger_lv_1000_it.json",
-    "total": 1665,
-    "index": 338,
+    "total": 1673,
+    "index": 341,
     "id_item": "danger_lv_1000_it",
     "english": "danger",
     "list_mean": [
@@ -775,8 +825,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dark_lv_1000_it.json",
-    "total": 1665,
-    "index": 339,
+    "total": 1673,
+    "index": 342,
     "id_item": "dark_lv_1000_it",
     "english": "dark",
     "list_mean": [
@@ -798,8 +848,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/daydream_lv_1000_it.json",
-    "total": 1665,
-    "index": 340,
+    "total": 1673,
+    "index": 343,
     "id_item": "daydream_lv_1000_it",
     "english": "daydream",
     "list_mean": [
@@ -811,8 +861,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/day_lv_1000_it.json",
-    "total": 1665,
-    "index": 341,
+    "total": 1673,
+    "index": 344,
     "id_item": "day_lv_1000_it",
     "english": "day",
     "list_mean": [
@@ -828,8 +878,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dead_lv_1000_it.json",
-    "total": 1665,
-    "index": 342,
+    "total": 1673,
+    "index": 345,
     "id_item": "dead_lv_1000_it",
     "english": "dead",
     "list_mean": [
@@ -853,8 +903,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deal_lv_1000_it.json",
-    "total": 1665,
-    "index": 343,
+    "total": 1673,
+    "index": 346,
     "id_item": "deal_lv_1000_it",
     "english": "deal",
     "list_mean": [
@@ -877,8 +927,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dear_lv_1000_it.json",
-    "total": 1665,
-    "index": 344,
+    "total": 1673,
+    "index": 347,
     "id_item": "dear_lv_1000_it",
     "english": "dear",
     "list_mean": [
@@ -899,8 +949,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/death_lv_1000_it.json",
-    "total": 1665,
-    "index": 345,
+    "total": 1673,
+    "index": 348,
     "id_item": "death_lv_1000_it",
     "english": "death",
     "list_mean": [
@@ -913,8 +963,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/debit_lv_1000_it.json",
-    "total": 1665,
-    "index": 346,
+    "total": 1673,
+    "index": 349,
     "id_item": "debit_lv_1000_it",
     "english": "debit",
     "list_mean": [
@@ -929,8 +979,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/decide_lv_1000_it.json",
-    "total": 1665,
-    "index": 347,
+    "total": 1673,
+    "index": 350,
     "id_item": "decide_lv_1000_it",
     "english": "decide",
     "list_mean": [
@@ -944,8 +994,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/decimal_lv_1000_it.json",
-    "total": 1665,
-    "index": 348,
+    "total": 1673,
+    "index": 351,
     "id_item": "decimal_lv_1000_it",
     "english": "decimal",
     "list_mean": [
@@ -958,8 +1008,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/declare_lv_1000_it.json",
-    "total": 1665,
-    "index": 349,
+    "total": 1673,
+    "index": 352,
     "id_item": "declare_lv_1000_it",
     "english": "declare",
     "list_mean": [
@@ -975,8 +1025,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deep_lv_1000_it.json",
-    "total": 1665,
-    "index": 350,
+    "total": 1673,
+    "index": 353,
     "id_item": "deep_lv_1000_it",
     "english": "deep",
     "list_mean": [
@@ -1003,8 +1053,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/defend_lv_1000_it.json",
-    "total": 1665,
-    "index": 351,
+    "total": 1673,
+    "index": 354,
     "id_item": "defend_lv_1000_it",
     "english": "defend",
     "list_mean": [
@@ -1020,8 +1070,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/define_lv_1000_it.json",
-    "total": 1665,
-    "index": 352,
+    "total": 1673,
+    "index": 355,
     "id_item": "define_lv_1000_it",
     "english": "define",
     "list_mean": [
@@ -1035,8 +1085,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/degree_lv_1000_it.json",
-    "total": 1665,
-    "index": 353,
+    "total": 1673,
+    "index": 356,
     "id_item": "degree_lv_1000_it",
     "english": "degree",
     "list_mean": [
@@ -1055,8 +1105,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deliver_lv_1000_it.json",
-    "total": 1665,
-    "index": 354,
+    "total": 1673,
+    "index": 357,
     "id_item": "deliver_lv_1000_it",
     "english": "deliver",
     "list_mean": [
@@ -1073,8 +1123,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/demand_lv_1000_it.json",
-    "total": 1665,
-    "index": 355,
+    "total": 1673,
+    "index": 358,
     "id_item": "demand_lv_1000_it",
     "english": "demand",
     "list_mean": [
@@ -1089,8 +1139,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/demonstrate_lv_1000_it.json",
-    "total": 1665,
-    "index": 356,
+    "total": 1673,
+    "index": 359,
     "id_item": "demonstrate_lv_1000_it",
     "english": "demonstrate",
     "list_mean": [
@@ -1106,8 +1156,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deny_lv_1000_it.json",
-    "total": 1665,
-    "index": 357,
+    "total": 1673,
+    "index": 360,
     "id_item": "deny_lv_1000_it",
     "english": "deny",
     "list_mean": [
@@ -1120,8 +1170,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/depend_lv_1000_it.json",
-    "total": 1665,
-    "index": 358,
+    "total": 1673,
+    "index": 361,
     "id_item": "depend_lv_1000_it",
     "english": "depend",
     "list_mean": [
@@ -1135,8 +1185,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deplete_lv_1000_it.json",
-    "total": 1665,
-    "index": 359,
+    "total": 1673,
+    "index": 362,
     "id_item": "deplete_lv_1000_it",
     "english": "deplete",
     "list_mean": [
@@ -1150,8 +1200,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/deposit_lv_1000_it.json",
-    "total": 1665,
-    "index": 360,
+    "total": 1673,
+    "index": 363,
     "id_item": "deposit_lv_1000_it",
     "english": "deposit",
     "list_mean": [
@@ -1173,8 +1223,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/derive_lv_1000_it.json",
-    "total": 1665,
-    "index": 361,
+    "total": 1673,
+    "index": 364,
     "id_item": "derive_lv_1000_it",
     "english": "derive",
     "list_mean": [
@@ -1187,8 +1237,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/describe_lv_1000_it.json",
-    "total": 1665,
-    "index": 362,
+    "total": 1673,
+    "index": 365,
     "id_item": "describe_lv_1000_it",
     "english": "describe",
     "list_mean": [
@@ -1202,8 +1252,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/desert_lv_1000_it.json",
-    "total": 1665,
-    "index": 363,
+    "total": 1673,
+    "index": 366,
     "id_item": "desert_lv_1000_it",
     "english": "desert",
     "list_mean": [
@@ -1218,8 +1268,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/design_lv_1000_it.json",
-    "total": 1665,
-    "index": 364,
+    "total": 1673,
+    "index": 367,
     "id_item": "design_lv_1000_it",
     "english": "design",
     "list_mean": [
@@ -1240,8 +1290,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/destination_lv_1000_it.json",
-    "total": 1665,
-    "index": 365,
+    "total": 1673,
+    "index": 368,
     "id_item": "destination_lv_1000_it",
     "english": "destination",
     "list_mean": [
@@ -1253,8 +1303,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/destroy_lv_1000_it.json",
-    "total": 1665,
-    "index": 366,
+    "total": 1673,
+    "index": 369,
     "id_item": "destroy_lv_1000_it",
     "english": "destroy",
     "list_mean": [
@@ -1267,8 +1317,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/determined_lv_1000_it.json",
-    "total": 1665,
-    "index": 367,
+    "total": 1673,
+    "index": 370,
     "id_item": "determined_lv_1000_it",
     "english": "determined",
     "list_mean": [
@@ -1281,8 +1331,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/determine_lv_1000_it.json",
-    "total": 1665,
-    "index": 368,
+    "total": 1673,
+    "index": 371,
     "id_item": "determine_lv_1000_it",
     "english": "determine",
     "list_mean": [
@@ -1299,8 +1349,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/develop_lv_1000_it.json",
-    "total": 1665,
-    "index": 369,
+    "total": 1673,
+    "index": 372,
     "id_item": "develop_lv_1000_it",
     "english": "develop",
     "list_mean": [
@@ -1322,8 +1372,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dialect_lv_1000_it.json",
-    "total": 1665,
-    "index": 370,
+    "total": 1673,
+    "index": 373,
     "id_item": "dialect_lv_1000_it",
     "english": "dialect",
     "list_mean": [
@@ -1335,8 +1385,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dictionary_lv_1000_it.json",
-    "total": 1665,
-    "index": 371,
+    "total": 1673,
+    "index": 374,
     "id_item": "dictionary_lv_1000_it",
     "english": "dictionary",
     "list_mean": [
@@ -1349,8 +1399,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/die_lv_1000_it.json",
-    "total": 1665,
-    "index": 372,
+    "total": 1673,
+    "index": 375,
     "id_item": "die_lv_1000_it",
     "english": "die",
     "list_mean": [
@@ -1369,8 +1419,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/differ_lv_1000_it.json",
-    "total": 1665,
-    "index": 373,
+    "total": 1673,
+    "index": 376,
     "id_item": "differ_lv_1000_it",
     "english": "differ",
     "list_mean": [
@@ -1383,8 +1433,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/difficult_lv_1000_it.json",
-    "total": 1665,
-    "index": 374,
+    "total": 1673,
+    "index": 377,
     "id_item": "difficult_lv_1000_it",
     "english": "difficult",
     "list_mean": [
@@ -1397,8 +1447,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dig_lv_1000_it.json",
-    "total": 1665,
-    "index": 375,
+    "total": 1673,
+    "index": 378,
     "id_item": "dig_lv_1000_it",
     "english": "dig",
     "list_mean": [
@@ -1422,8 +1472,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/diplomatic_lv_1000_it.json",
-    "total": 1665,
-    "index": 376,
+    "total": 1673,
+    "index": 379,
     "id_item": "diplomatic_lv_1000_it",
     "english": "diplomatic",
     "list_mean": [
@@ -1436,8 +1486,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/direct_lv_1000_it.json",
-    "total": 1665,
-    "index": 377,
+    "total": 1673,
+    "index": 380,
     "id_item": "direct_lv_1000_it",
     "english": "direct",
     "list_mean": [
@@ -1464,8 +1514,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/discover_lv_1000_it.json",
-    "total": 1665,
-    "index": 378,
+    "total": 1673,
+    "index": 381,
     "id_item": "discover_lv_1000_it",
     "english": "discover",
     "list_mean": [
@@ -1478,8 +1528,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/discreet_lv_1000_it.json",
-    "total": 1665,
-    "index": 379,
+    "total": 1673,
+    "index": 382,
     "id_item": "discreet_lv_1000_it",
     "english": "discreet",
     "list_mean": [
@@ -1491,8 +1541,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/discuss_lv_1000_it.json",
-    "total": 1665,
-    "index": 380,
+    "total": 1673,
+    "index": 383,
     "id_item": "discuss_lv_1000_it",
     "english": "discuss",
     "list_mean": [
@@ -1504,8 +1554,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dismiss_lv_1000_it.json",
-    "total": 1665,
-    "index": 381,
+    "total": 1673,
+    "index": 384,
     "id_item": "dismiss_lv_1000_it",
     "english": "dismiss",
     "list_mean": [
@@ -1524,8 +1574,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/display_lv_1000_it.json",
-    "total": 1665,
-    "index": 382,
+    "total": 1673,
+    "index": 385,
     "id_item": "display_lv_1000_it",
     "english": "display",
     "list_mean": [
@@ -1545,8 +1595,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/disposal_lv_1000_it.json",
-    "total": 1665,
-    "index": 383,
+    "total": 1673,
+    "index": 386,
     "id_item": "disposal_lv_1000_it",
     "english": "disposal",
     "list_mean": [
@@ -1561,8 +1611,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dispose_lv_1000_it.json",
-    "total": 1665,
-    "index": 384,
+    "total": 1673,
+    "index": 387,
     "id_item": "dispose_lv_1000_it",
     "english": "dispose",
     "list_mean": [
@@ -1578,8 +1628,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/distant_lv_1000_it.json",
-    "total": 1665,
-    "index": 385,
+    "total": 1673,
+    "index": 388,
     "id_item": "distant_lv_1000_it",
     "english": "distant",
     "list_mean": [
@@ -1594,8 +1644,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/distinction_lv_1000_it.json",
-    "total": 1665,
-    "index": 386,
+    "total": 1673,
+    "index": 389,
     "id_item": "distinction_lv_1000_it",
     "english": "distinction",
     "list_mean": [
@@ -1610,8 +1660,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/distinguish_lv_1000_it.json",
-    "total": 1665,
-    "index": 387,
+    "total": 1673,
+    "index": 390,
     "id_item": "distinguish_lv_1000_it",
     "english": "distinguish",
     "list_mean": [
@@ -1626,8 +1676,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dive_lv_1000_it.json",
-    "total": 1665,
-    "index": 388,
+    "total": 1673,
+    "index": 391,
     "id_item": "dive_lv_1000_it",
     "english": "dive",
     "list_mean": [
@@ -1652,8 +1702,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/divide_lv_1000_it.json",
-    "total": 1665,
-    "index": 389,
+    "total": 1673,
+    "index": 392,
     "id_item": "divide_lv_1000_it",
     "english": "divide",
     "list_mean": [
@@ -1673,8 +1723,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/division_lv_1000_it.json",
-    "total": 1665,
-    "index": 390,
+    "total": 1673,
+    "index": 393,
     "id_item": "division_lv_1000_it",
     "english": "division",
     "list_mean": [
@@ -1694,8 +1744,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/divorce_lv_1000_it.json",
-    "total": 1665,
-    "index": 391,
+    "total": 1673,
+    "index": 394,
     "id_item": "divorce_lv_1000_it",
     "english": "divorce",
     "list_mean": [
@@ -1710,8 +1760,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/doctor_lv_1000_it.json",
-    "total": 1665,
-    "index": 392,
+    "total": 1673,
+    "index": 395,
     "id_item": "doctor_lv_1000_it",
     "english": "doctor",
     "list_mean": [
@@ -1732,8 +1782,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/documentation_lv_1000_it.json",
-    "total": 1665,
-    "index": 393,
+    "total": 1673,
+    "index": 396,
     "id_item": "documentation_lv_1000_it",
     "english": "documentation",
     "list_mean": [
@@ -1746,8 +1796,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dog_lv_1000_it.json",
-    "total": 1665,
-    "index": 394,
+    "total": 1673,
+    "index": 397,
     "id_item": "dog_lv_1000_it",
     "english": "dog",
     "list_mean": [
@@ -1768,9 +1818,23 @@
     "hash_code_list_mean": "1711370365"
   },
   {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dollar_lv_1000_it.json",
+    "total": 1673,
+    "index": 398,
+    "id_item": "dollar_lv_1000_it",
+    "english": "dollar",
+    "list_mean": [
+      "đồng đô la ( Mỹ)",
+      "(từ lóng) đồng 5 silinh, đồng curon"
+    ],
+    "cau_en": "Will we all survive until the year 2000? That's the sixty-four thousand dollar question",
+    "cau_vn": "Liệu tất cả chúng ta có sống được đến năm 2000 chăng? Quả là một câu hỏi khó trả lời",
+    "hash_code_list_mean": "718811554"
+  },
+  {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dominate_lv_1000_it.json",
-    "total": 1665,
-    "index": 395,
+    "total": 1673,
+    "index": 399,
     "id_item": "dominate_lv_1000_it",
     "english": "dominate",
     "list_mean": [
@@ -1782,82 +1846,5 @@
     "cau_en": "to dominate [over ] a people",
     "cau_vn": "thống trị một dân tộc",
     "hash_code_list_mean": "-256203701"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/done_lv_1000_it.json",
-    "total": 1665,
-    "index": 396,
-    "id_item": "done_lv_1000_it",
-    "english": "done",
-    "list_mean": [
-      "(về thức ăn) nấu chín",
-      "có thể chấp nhận về mặt xã hội",
-      "(dùng để cho thấy mình chấp nhận một đề nghị) xong!"
-    ],
-    "cau_en": "let's spend another half an hour painting and then have done with it",
-    "cau_vn": "chúng ta hãy dành thêm nửa giờ nữa để quét sơn, cho nó xong đi",
-    "hash_code_list_mean": "-429956838"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/door_lv_1000_it.json",
-    "total": 1665,
-    "index": 397,
-    "id_item": "door_lv_1000_it",
-    "english": "door",
-    "list_mean": [
-      "cửa, cửa ra vào (nhà, xe ô tô...)",
-      "phương tiện để có được cái gì hoặc đạt được cái gì; cửa ngõ, con đường"
-    ],
-    "cau_en": "the blame for the disaster has been laid firmly at the company's door",
-    "cau_vn": "công ty dứt khoát phải chịu trách nhiệm về tai hoạ này",
-    "hash_code_list_mean": "-324577593"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/double_lv_1000_it.json",
-    "total": 1665,
-    "index": 398,
-    "id_item": "double_lv_1000_it",
-    "english": "double",
-    "list_mean": [
-      "gấp hai lần, nhiều gấp hai lần, gấp đôi",
-      "có hai phần bằng nhau, làm bằng hai vật giống nhau",
-      "được làm cho hai người hoặc hai vật",
-      "đôi, hai, kép",
-      "(về hoa) có nhiều cánh hoa hơn số cánh hoa thông thường; kép",
-      "cái gấp đôi, lượng gấp đôi",
-      "cốc đựng lượng rượu gấp đôi bình thường",
-      "bản giống hệt, bản sao y, cái giống hệt cái khác; người giống hệt người khác",
-      "( doubles ) (thể dục,thể thao) trận đánh đôi (bóng bàn, quần vợt)",
-      "( the double ) (thể dục thể thao) hai giải giành được trong những cuộc thi đấu giống nhau",
-      "(đánh bài) sự đặt tiền gấp đôi",
-      "(trò chơi ném phi tiêu) trúng vòng ngoài của bia, ghi điểm thắng gấp đôi",
-      "(sân khấu) người diễn thay một một diễn viên trong những cảnh nguy hiểm",
-      "thành hai hoặc thành hai phần",
-      "làm gấp đôi, tăng gấp đôi, nhân gấp đôi",
-      "( to double something up / over / across / back ) uốn làm đôi; gập đôi",
-      "tạm thời dùng làm cái gì",
-      "(sân khấu); (điện ảnh) đóng (một vai thứ hai) cũng giỏi như vai kia",
-      "chơi hoặc hát cùng một bản nhạc như (một nhạc cụ hoặc một giọng hát khác); hoà điệu",
-      "nắm chặt (nắm tay)"
-    ],
-    "cau_en": "if you double all the quantities in the recipe , it'll be enough for eight people",
-    "cau_vn": "nếu anh tăng gấp đôi tất cả các số lượng trong thực đơn thì sẽ đủ cho tám người",
-    "hash_code_list_mean": "-104767541"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_0/raw/main/dove_lv_1000_it.json",
-    "total": 1665,
-    "index": 399,
-    "id_item": "dove_lv_1000_it",
-    "english": "dove",
-    "list_mean": [
-      "chim bồ câu",
-      "người đem tin mừng; sứ giả của hoà bình",
-      "người yêu quý, \"bồ câu nhỏ\" (tiếng gọi thân mật)",
-      "(chính trị) người chủ trương hoà bình (đối với kẻ hiếu chiến)"
-    ],
-    "cau_en": "Dove of Peace",
-    "cau_vn": "chim bồ câu hoà bình",
-    "hash_code_list_mean": "101448044"
   }
 ]

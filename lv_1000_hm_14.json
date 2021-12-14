@@ -1,8 +1,205 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/string_lv_1000_it.json",
-    "total": 1665,
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/straight_lv_1000_it.json",
+    "total": 1673,
     "index": 1400,
+    "id_item": "straight_lv_1000_it",
+    "english": "straight",
+    "list_mean": [
+      "thẳng, không cong",
+      "thẳng thắn, trung thực, thật thà (về người, hành vi của anh ta..)",
+      "chân thật; không sửa đổi, không phức tạp",
+      "thuộc loại thông thường (về một vở kịch, phong cách (sân khấu))",
+      "liền một mạch; kế nhau liên tục",
+      "gọn gàng; ngăn nắp; đúng đắn",
+      "ngay ngắn; phẳng, thẳng đứng",
+      "không cong, không có góc; thẳng; trực tiếp",
+      "bằng con đường thẳng; không trì hoãn, không do dự",
+      "trung thực và thành thật; một cách thẳng thắn",
+      "đúng, đúng đắn, chính xác",
+      "(từ cổ,nghĩa cổ) ngay lập tức",
+      "sự thẳng",
+      "chỗ thẳng, đoạn thẳng, phần thẳng (nhất là phần cuối cùng của một vòng đua hoặc một con đường đua ngựa)",
+      "(đánh bài) suốt (một bộ năm con liên tiếp, trong bài xì, pôcơ)"
+    ],
+    "cau_en": "she went straight from school to university",
+    "cau_vn": "cô ta học thẳng từ trường trung học lên đại học",
+    "hash_code_list_mean": "-432560344"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/strange_lv_1000_it.json",
+    "total": 1673,
+    "index": 1401,
+    "id_item": "strange_lv_1000_it",
+    "english": "strange",
+    "list_mean": [
+      "lạ, xa lạ, không quen biết",
+      "kỳ lạ; lạ thường; gây ngạc nhiên; lập dị",
+      "mới, chưa quen"
+    ],
+    "cau_en": "he is very strange in his manner",
+    "cau_vn": "thái độ của nó rất kỳ quặc; nó có vẻ điên điên khùng khùng",
+    "hash_code_list_mean": "1678024714"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/stream_lv_1000_it.json",
+    "total": 1673,
+    "index": 1402,
+    "id_item": "stream_lv_1000_it",
+    "english": "stream",
+    "list_mean": [
+      "dòng suối",
+      "dòng, luồng (chất lỏng, người, vật..)",
+      "chiều nước chảy, hướng chuyển động",
+      "lớp, phân lớp (cho trẻ em cùng lứa tuổi và trình độ năng lực)",
+      "chảy, chuyển động như một dòng nước; chảy ra, trào ra, tuôn ra",
+      "phấp phới, phất phơ (cờ, tóc)",
+      "làm chảy ra như suối, làm chảy ròng ròng; làm chảy ra, làm trào ra, làm tuôn ra",
+      "đưa (học sinh) vào lớp cùng trình độ"
+    ],
+    "cau_en": "children are streamed according to ability",
+    "cau_vn": "trẻ em được đưa vào các lớp theo năng lực của chúng",
+    "hash_code_list_mean": "1624067288"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/street_lv_1000_it.json",
+    "total": 1673,
+    "index": 1403,
+    "id_item": "street_lv_1000_it",
+    "english": "street",
+    "list_mean": [
+      "(viết tắt) St phố, đường phố",
+      "hàng phố; dân phố (tất cả những người ở cùng một phố)",
+      "(từ cổ,nghĩa cổ) đường cái"
+    ],
+    "cau_en": "the whole street contributed",
+    "cau_vn": "cả hàng phố đều có đóng góp",
+    "hash_code_list_mean": "1039304160"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/stress_lv_1000_it.json",
+    "total": 1673,
+    "index": 1404,
+    "id_item": "stress_lv_1000_it",
+    "english": "stress",
+    "list_mean": [
+      "sự căng thẳng; tâm trạng căng thẳng",
+      "( + on ) sự nhấn mạnh; ý nghĩa đặc biệt",
+      "(ngôn ngữ học) trọng âm; âm nhấn",
+      "sự nhấn",
+      "sự cố gắng, sự đòi hỏi bỏ nhiều sức lực",
+      "sự bắt buộc",
+      "(kỹ thuật) ứng suất (nhất là trong cơ học)",
+      "ép, làm căng thẳng",
+      "nhấn mạnh (một âm, một điểm...)",
+      "(kỹ thuật) cho tác dụng ứng suất"
+    ],
+    "cau_en": "you must learn where to place the stresses",
+    "cau_vn": "anh phải học cách đặt trọng âm vào đâu",
+    "hash_code_list_mean": "347474786"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/stretch_lv_1000_it.json",
+    "total": 1673,
+    "index": 1405,
+    "id_item": "stretch_lv_1000_it",
+    "english": "stretch",
+    "list_mean": [
+      "sự căng ra, sự duỗi ra; sự bị căng ra, sự bị duỗi ra",
+      "khả năng có thể căng ra; tính co giãn",
+      "khoảng kéo dài liên tục; sự kéo dài liên tục (của cái gì)",
+      "một thời gian kéo dài liên tục, một thời gian không bị ngắt khoảng",
+      "nghĩa rộng, nghĩa suy ra",
+      "(hàng hải) mạch đường (khoảng đường đã đi được theo một hướng buồm)",
+      "thời gian phục vụ; thời gian bị tù, hạn tù",
+      "quãng đường thẳng của một vòng đua",
+      "kéo dài ra, căng ra, giăng ra, duỗi ra; nong ra",
+      "vươn (vai..)",
+      "đòi hỏi nhiều ở (ai hoặc khả năng.. của ai)",
+      "lợi dụng, lạm dụng; nói phóng đại, nói ngoa, thổi phồng",
+      "(từ lóng) treo cổ (ai)",
+      "( + out ) kéo dài để đáp ứng những nhu cầu, có đủ để đáp ứng những nhu cầu",
+      "trải ra, chạy dài ra",
+      "giãn ra, rộng ra; co giãn",
+      "mở rộng ra",
+      "kéo dài",
+      "( + oneself ) one nằm sóng soài; nằm dài ra để nghỉ",
+      "(từ Mỹ,nghĩa Mỹ), (từ lóng) bị treo cổ"
+    ],
+    "cau_en": "the road stretched (out ) across the desert into the distance",
+    "cau_vn": "con đường chạy qua sa mạc về phía xa",
+    "hash_code_list_mean": "-673171169"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/stride_lv_1000_it.json",
+    "total": 1673,
+    "index": 1406,
+    "id_item": "stride_lv_1000_it",
+    "english": "stride",
+    "list_mean": [
+      "bước dài, sải chân",
+      "dáng đi; cách đi của một người",
+      "khoảng cách một bước dài",
+      "( (thường) số nhiều) sự tiến bộ",
+      "sải bước, đi dài bước",
+      "đứng dang chân",
+      "( + across/over ) vượt qua, bước qua (con đường...) bằng một bước dài"
+    ],
+    "cau_en": "to walk with vigorous stride",
+    "cau_vn": "bước những bước dài mạnh mẽ",
+    "hash_code_list_mean": "627491668"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/strike_lv_1000_it.json",
+    "total": 1673,
+    "index": 1407,
+    "id_item": "strike_lv_1000_it",
+    "english": "strike",
+    "list_mean": [
+      "đánh, đập",
+      "đánh, điểm",
+      "đúc",
+      "giật (cá, khi câu)",
+      "dò đúng, đào đúng (mạch dầu, mạch mỏ...)",
+      "đánh, tấn công",
+      "đập vào",
+      "làm cho phải chú ý, gây ấn tượng",
+      "thình lình làm cho; gây (sợ hãi, kinh ngạc...) thình lình",
+      "đâm vào, đưa vào; đi vào, tới, đến",
+      "gạt (thùng khi đong thóc...)",
+      "xoá, bỏ, gạch đi",
+      "hạ (cờ, buồm)",
+      "bãi, đình (công)",
+      "tính lấy (số trung bình)",
+      "làm thăng bằng (cái cân)",
+      "lấy (điệu bộ...)",
+      "(sân khấu) dỡ và thu dọn (phông); tắt (đèn)",
+      "dỡ (lều)",
+      "đánh, nhằm đánh",
+      "gõ, đánh, điểm",
+      "bật cháy, chiếu sáng",
+      "đớp mồi, cắn câu (cá)",
+      "đâm rễ (cây)",
+      "tấn công",
+      "thấm qua",
+      "đi về phía, hướng về",
+      "hạ cờ; hạ cờ đầu hàng, đầu hàng",
+      "bãi công, đình công",
+      "cuộc đình công, cuộc bãi công",
+      "mẻ đúc",
+      "sự đột nhiên dò đúng (mạch mỏ)",
+      "sự phất",
+      "sự xuất kích",
+      "que gạt (dấu, thùng đong thóc)"
+    ],
+    "cau_en": "to strike sparks (fire , light ) out of flint",
+    "cau_vn": "đánh đá lửa",
+    "hash_code_list_mean": "1508440865"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/string_lv_1000_it.json",
+    "total": 1673,
+    "index": 1408,
     "id_item": "string_lv_1000_it",
     "english": "string",
     "list_mean": [
@@ -36,8 +233,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/strong_lv_1000_it.json",
-    "total": 1665,
-    "index": 1401,
+    "total": 1673,
+    "index": 1409,
     "id_item": "strong_lv_1000_it",
     "english": "strong",
     "list_mean": [
@@ -60,8 +257,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/structure_lv_1000_it.json",
-    "total": 1665,
-    "index": 1402,
+    "total": 1673,
+    "index": 1410,
     "id_item": "structure_lv_1000_it",
     "english": "structure",
     "list_mean": [
@@ -74,8 +271,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/struggle_lv_1000_it.json",
-    "total": 1665,
-    "index": 1403,
+    "total": 1673,
+    "index": 1411,
     "id_item": "struggle_lv_1000_it",
     "english": "struggle",
     "list_mean": [
@@ -92,8 +289,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/stubborn_lv_1000_it.json",
-    "total": 1665,
-    "index": 1404,
+    "total": 1673,
+    "index": 1412,
     "id_item": "stubborn_lv_1000_it",
     "english": "stubborn",
     "list_mean": [
@@ -107,8 +304,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/student_lv_1000_it.json",
-    "total": 1665,
-    "index": 1405,
+    "total": 1673,
+    "index": 1413,
     "id_item": "student_lv_1000_it",
     "english": "student",
     "list_mean": [
@@ -122,8 +319,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/study_lv_1000_it.json",
-    "total": 1665,
-    "index": 1406,
+    "total": 1673,
+    "index": 1414,
     "id_item": "study_lv_1000_it",
     "english": "study",
     "list_mean": [
@@ -143,8 +340,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/subjective_lv_1000_it.json",
-    "total": 1665,
-    "index": 1407,
+    "total": 1673,
+    "index": 1415,
     "id_item": "subjective_lv_1000_it",
     "english": "subjective",
     "list_mean": [
@@ -159,8 +356,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/subject_lv_1000_it.json",
-    "total": 1665,
-    "index": 1408,
+    "total": 1673,
+    "index": 1416,
     "id_item": "subject_lv_1000_it",
     "english": "subject",
     "list_mean": [
@@ -187,8 +384,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/submit_lv_1000_it.json",
-    "total": 1665,
-    "index": 1409,
+    "total": 1673,
+    "index": 1417,
     "id_item": "submit_lv_1000_it",
     "english": "submit",
     "list_mean": [
@@ -204,8 +401,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/substance_lv_1000_it.json",
-    "total": 1665,
-    "index": 1410,
+    "total": 1673,
+    "index": 1418,
     "id_item": "substance_lv_1000_it",
     "english": "substance",
     "list_mean": [
@@ -222,8 +419,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/succeed_lv_1000_it.json",
-    "total": 1665,
-    "index": 1411,
+    "total": 1673,
+    "index": 1419,
     "id_item": "succeed_lv_1000_it",
     "english": "succeed",
     "list_mean": [
@@ -237,8 +434,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/success_lv_1000_it.json",
-    "total": 1665,
-    "index": 1412,
+    "total": 1673,
+    "index": 1420,
     "id_item": "success_lv_1000_it",
     "english": "success",
     "list_mean": [
@@ -251,8 +448,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/such_lv_1000_it.json",
-    "total": 1665,
-    "index": 1413,
+    "total": 1673,
+    "index": 1421,
     "id_item": "such_lv_1000_it",
     "english": "such",
     "list_mean": [
@@ -269,8 +466,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/sudden_lv_1000_it.json",
-    "total": 1665,
-    "index": 1414,
+    "total": 1673,
+    "index": 1422,
     "id_item": "sudden_lv_1000_it",
     "english": "sudden",
     "list_mean": [
@@ -282,8 +479,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/suffer_lv_1000_it.json",
-    "total": 1665,
-    "index": 1415,
+    "total": 1673,
+    "index": 1423,
     "id_item": "suffer_lv_1000_it",
     "english": "suffer",
     "list_mean": [
@@ -298,8 +495,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/sugar_lv_1000_it.json",
-    "total": 1665,
-    "index": 1416,
+    "total": 1673,
+    "index": 1424,
     "id_item": "sugar_lv_1000_it",
     "english": "sugar",
     "list_mean": [
@@ -318,8 +515,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/suggest_lv_1000_it.json",
-    "total": 1665,
-    "index": 1417,
+    "total": 1673,
+    "index": 1425,
     "id_item": "suggest_lv_1000_it",
     "english": "suggest",
     "list_mean": [
@@ -335,8 +532,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/suite_lv_1000_it.json",
-    "total": 1665,
-    "index": 1418,
+    "total": 1673,
+    "index": 1426,
     "id_item": "suite_lv_1000_it",
     "english": "suite",
     "list_mean": [
@@ -354,8 +551,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/suit_lv_1000_it.json",
-    "total": 1665,
-    "index": 1419,
+    "total": 1673,
+    "index": 1427,
     "id_item": "suit_lv_1000_it",
     "english": "suit",
     "list_mean": [
@@ -376,8 +573,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/summer_lv_1000_it.json",
-    "total": 1665,
-    "index": 1420,
+    "total": 1673,
+    "index": 1428,
     "id_item": "summer_lv_1000_it",
     "english": "summer",
     "list_mean": [
@@ -394,8 +591,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/sunny_lv_1000_it.json",
-    "total": 1665,
-    "index": 1421,
+    "total": 1673,
+    "index": 1429,
     "id_item": "sunny_lv_1000_it",
     "english": "sunny",
     "list_mean": [
@@ -408,8 +605,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/sunshine_lv_1000_it.json",
-    "total": 1665,
-    "index": 1422,
+    "total": 1673,
+    "index": 1430,
     "id_item": "sunshine_lv_1000_it",
     "english": "sunshine",
     "list_mean": [
@@ -424,8 +621,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/sun_lv_1000_it.json",
-    "total": 1665,
-    "index": 1423,
+    "total": 1673,
+    "index": 1431,
     "id_item": "sun_lv_1000_it",
     "english": "sun",
     "list_mean": [
@@ -444,8 +641,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/supply_lv_1000_it.json",
-    "total": 1665,
-    "index": 1424,
+    "total": 1673,
+    "index": 1432,
     "id_item": "supply_lv_1000_it",
     "english": "supply",
     "list_mean": [
@@ -468,8 +665,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/supportive_lv_1000_it.json",
-    "total": 1665,
-    "index": 1425,
+    "total": 1673,
+    "index": 1433,
     "id_item": "supportive_lv_1000_it",
     "english": "supportive",
     "list_mean": [
@@ -481,8 +678,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/support_lv_1000_it.json",
-    "total": 1665,
-    "index": 1426,
+    "total": 1673,
+    "index": 1434,
     "id_item": "support_lv_1000_it",
     "english": "support",
     "list_mean": [
@@ -506,8 +703,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/suppose_lv_1000_it.json",
-    "total": 1665,
-    "index": 1427,
+    "total": 1673,
+    "index": 1435,
     "id_item": "suppose_lv_1000_it",
     "english": "suppose",
     "list_mean": [
@@ -522,8 +719,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/sure_lv_1000_it.json",
-    "total": 1665,
-    "index": 1428,
+    "total": 1673,
+    "index": 1436,
     "id_item": "sure_lv_1000_it",
     "english": "sure",
     "list_mean": [
@@ -543,8 +740,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/surface_lv_1000_it.json",
-    "total": 1665,
-    "index": 1429,
+    "total": 1673,
+    "index": 1437,
     "id_item": "surface_lv_1000_it",
     "english": "surface",
     "list_mean": [
@@ -569,8 +766,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/surprise_lv_1000_it.json",
-    "total": 1665,
-    "index": 1430,
+    "total": 1673,
+    "index": 1438,
     "id_item": "surprise_lv_1000_it",
     "english": "surprise",
     "list_mean": [
@@ -589,8 +786,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/surround_lv_1000_it.json",
-    "total": 1665,
-    "index": 1431,
+    "total": 1673,
+    "index": 1439,
     "id_item": "surround_lv_1000_it",
     "english": "surround",
     "list_mean": [
@@ -605,8 +802,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/survey_lv_1000_it.json",
-    "total": 1665,
-    "index": 1432,
+    "total": 1673,
+    "index": 1440,
     "id_item": "survey_lv_1000_it",
     "english": "survey",
     "list_mean": [
@@ -627,8 +824,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/survive_lv_1000_it.json",
-    "total": 1665,
-    "index": 1433,
+    "total": 1673,
+    "index": 1441,
     "id_item": "survive_lv_1000_it",
     "english": "survive",
     "list_mean": [
@@ -642,8 +839,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/suspect_lv_1000_it.json",
-    "total": 1665,
-    "index": 1434,
+    "total": 1673,
+    "index": 1442,
     "id_item": "suspect_lv_1000_it",
     "english": "suspect",
     "list_mean": [
@@ -658,8 +855,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/swear_lv_1000_it.json",
-    "total": 1665,
-    "index": 1435,
+    "total": 1673,
+    "index": 1443,
     "id_item": "swear_lv_1000_it",
     "english": "swear",
     "list_mean": [
@@ -679,8 +876,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/sweat_lv_1000_it.json",
-    "total": 1665,
-    "index": 1436,
+    "total": 1673,
+    "index": 1444,
     "id_item": "sweat_lv_1000_it",
     "english": "sweat",
     "list_mean": [
@@ -712,8 +909,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/sweep_lv_1000_it.json",
-    "total": 1665,
-    "index": 1437,
+    "total": 1673,
+    "index": 1445,
     "id_item": "sweep_lv_1000_it",
     "english": "sweep",
     "list_mean": [
@@ -749,8 +946,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/swell_lv_1000_it.json",
-    "total": 1665,
-    "index": 1438,
+    "total": 1673,
+    "index": 1446,
     "id_item": "swell_lv_1000_it",
     "english": "swell",
     "list_mean": [
@@ -775,8 +972,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/swimming_lv_1000_it.json",
-    "total": 1665,
-    "index": 1439,
+    "total": 1673,
+    "index": 1447,
     "id_item": "swimming_lv_1000_it",
     "english": "swimming",
     "list_mean": [
@@ -791,8 +988,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/swim_lv_1000_it.json",
-    "total": 1665,
-    "index": 1440,
+    "total": 1673,
+    "index": 1448,
     "id_item": "swim_lv_1000_it",
     "english": "swim",
     "list_mean": [
@@ -817,8 +1014,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/swing_lv_1000_it.json",
-    "total": 1665,
-    "index": 1441,
+    "total": 1673,
+    "index": 1449,
     "id_item": "swing_lv_1000_it",
     "english": "swing",
     "list_mean": [
@@ -844,8 +1041,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/switch_lv_1000_it.json",
-    "total": 1665,
-    "index": 1442,
+    "total": 1673,
+    "index": 1450,
     "id_item": "switch_lv_1000_it",
     "english": "switch",
     "list_mean": [
@@ -871,8 +1068,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/syllable_lv_1000_it.json",
-    "total": 1665,
-    "index": 1443,
+    "total": 1673,
+    "index": 1451,
     "id_item": "syllable_lv_1000_it",
     "english": "syllable",
     "list_mean": [
@@ -888,8 +1085,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/symbol_lv_1000_it.json",
-    "total": 1665,
-    "index": 1444,
+    "total": 1673,
+    "index": 1452,
     "id_item": "symbol_lv_1000_it",
     "english": "symbol",
     "list_mean": [
@@ -904,8 +1101,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/system_lv_1000_it.json",
-    "total": 1665,
-    "index": 1445,
+    "total": 1673,
+    "index": 1453,
     "id_item": "system_lv_1000_it",
     "english": "system",
     "list_mean": [
@@ -923,8 +1120,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/table_lv_1000_it.json",
-    "total": 1665,
-    "index": 1446,
+    "total": 1673,
+    "index": 1454,
     "id_item": "table_lv_1000_it",
     "english": "table",
     "list_mean": [
@@ -948,8 +1145,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tackle_lv_1000_it.json",
-    "total": 1665,
-    "index": 1447,
+    "total": 1673,
+    "index": 1455,
     "id_item": "tackle_lv_1000_it",
     "english": "tackle",
     "list_mean": [
@@ -970,8 +1167,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tailor_lv_1000_it.json",
-    "total": 1665,
-    "index": 1448,
+    "total": 1673,
+    "index": 1456,
     "id_item": "tailor_lv_1000_it",
     "english": "tailor",
     "list_mean": [
@@ -987,8 +1184,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tail_lv_1000_it.json",
-    "total": 1665,
-    "index": 1449,
+    "total": 1673,
+    "index": 1457,
     "id_item": "tail_lv_1000_it",
     "english": "tail",
     "list_mean": [
@@ -1011,8 +1208,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/take_lv_1000_it.json",
-    "total": 1665,
-    "index": 1450,
+    "total": 1673,
+    "index": 1458,
     "id_item": "take_lv_1000_it",
     "english": "take",
     "list_mean": [
@@ -1069,8 +1266,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/talkative_lv_1000_it.json",
-    "total": 1665,
-    "index": 1451,
+    "total": 1673,
+    "index": 1459,
     "id_item": "talkative_lv_1000_it",
     "english": "talkative",
     "list_mean": [
@@ -1082,8 +1279,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/talk_lv_1000_it.json",
-    "total": 1665,
-    "index": 1452,
+    "total": 1673,
+    "index": 1460,
     "id_item": "talk_lv_1000_it",
     "english": "talk",
     "list_mean": [
@@ -1108,8 +1305,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tall_lv_1000_it.json",
-    "total": 1665,
-    "index": 1453,
+    "total": 1673,
+    "index": 1461,
     "id_item": "tall_lv_1000_it",
     "english": "tall",
     "list_mean": [
@@ -1124,8 +1321,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tangent_lv_1000_it.json",
-    "total": 1665,
-    "index": 1454,
+    "total": 1673,
+    "index": 1462,
     "id_item": "tangent_lv_1000_it",
     "english": "tangent",
     "list_mean": [
@@ -1138,8 +1335,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tap_lv_1000_it.json",
-    "total": 1665,
-    "index": 1455,
+    "total": 1673,
+    "index": 1463,
     "id_item": "tap_lv_1000_it",
     "english": "tap",
     "list_mean": [
@@ -1174,8 +1371,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/taste_lv_1000_it.json",
-    "total": 1665,
-    "index": 1456,
+    "total": 1673,
+    "index": 1464,
     "id_item": "taste_lv_1000_it",
     "english": "taste",
     "list_mean": [
@@ -1199,8 +1396,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/teach_lv_1000_it.json",
-    "total": 1665,
-    "index": 1457,
+    "total": 1673,
+    "index": 1465,
     "id_item": "teach_lv_1000_it",
     "english": "teach",
     "list_mean": [
@@ -1216,8 +1413,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/team_lv_1000_it.json",
-    "total": 1665,
-    "index": 1458,
+    "total": 1673,
+    "index": 1466,
     "id_item": "team_lv_1000_it",
     "english": "team",
     "list_mean": [
@@ -1234,8 +1431,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tear_lv_1000_it.json",
-    "total": 1665,
-    "index": 1459,
+    "total": 1673,
+    "index": 1467,
     "id_item": "tear_lv_1000_it",
     "english": "tear",
     "list_mean": [
@@ -1259,8 +1456,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/technology_lv_1000_it.json",
-    "total": 1665,
-    "index": 1460,
+    "total": 1673,
+    "index": 1468,
     "id_item": "technology_lv_1000_it",
     "english": "technology",
     "list_mean": [
@@ -1272,8 +1469,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/telephone_lv_1000_it.json",
-    "total": 1665,
-    "index": 1461,
+    "total": 1673,
+    "index": 1469,
     "id_item": "telephone_lv_1000_it",
     "english": "telephone",
     "list_mean": [
@@ -1287,8 +1484,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/television_lv_1000_it.json",
-    "total": 1665,
-    "index": 1462,
+    "total": 1673,
+    "index": 1470,
     "id_item": "television_lv_1000_it",
     "english": "television",
     "list_mean": [
@@ -1303,8 +1500,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tell_lv_1000_it.json",
-    "total": 1665,
-    "index": 1463,
+    "total": 1673,
+    "index": 1471,
     "id_item": "tell_lv_1000_it",
     "english": "tell",
     "list_mean": [
@@ -1327,8 +1524,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/temperature_lv_1000_it.json",
-    "total": 1665,
-    "index": 1464,
+    "total": 1673,
+    "index": 1472,
     "id_item": "temperature_lv_1000_it",
     "english": "temperature",
     "list_mean": [
@@ -1341,8 +1538,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tend_lv_1000_it.json",
-    "total": 1665,
-    "index": 1465,
+    "total": 1673,
+    "index": 1473,
     "id_item": "tend_lv_1000_it",
     "english": "tend",
     "list_mean": [
@@ -1359,8 +1556,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tenor_lv_1000_it.json",
-    "total": 1665,
-    "index": 1466,
+    "total": 1673,
+    "index": 1474,
     "id_item": "tenor_lv_1000_it",
     "english": "tenor",
     "list_mean": [
@@ -1379,8 +1576,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/ten_lv_1000_it.json",
-    "total": 1665,
-    "index": 1467,
+    "total": 1673,
+    "index": 1475,
     "id_item": "ten_lv_1000_it",
     "english": "ten",
     "list_mean": [
@@ -1394,8 +1591,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/term_lv_1000_it.json",
-    "total": 1665,
-    "index": 1468,
+    "total": 1673,
+    "index": 1476,
     "id_item": "term_lv_1000_it",
     "english": "term",
     "list_mean": [
@@ -1414,8 +1611,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/test_lv_1000_it.json",
-    "total": 1665,
-    "index": 1469,
+    "total": 1673,
+    "index": 1477,
     "id_item": "test_lv_1000_it",
     "english": "test",
     "list_mean": [
@@ -1439,8 +1636,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thank_lv_1000_it.json",
-    "total": 1665,
-    "index": 1470,
+    "total": 1673,
+    "index": 1478,
     "id_item": "thank_lv_1000_it",
     "english": "thank",
     "list_mean": [
@@ -1452,8 +1649,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/than_lv_1000_it.json",
-    "total": 1665,
-    "index": 1471,
+    "total": 1673,
+    "index": 1479,
     "id_item": "than_lv_1000_it",
     "english": "than",
     "list_mean": [
@@ -1467,8 +1664,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/that_lv_1000_it.json",
-    "total": 1665,
-    "index": 1472,
+    "total": 1673,
+    "index": 1480,
     "id_item": "that_lv_1000_it",
     "english": "that",
     "list_mean": [
@@ -1494,8 +1691,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/their_lv_1000_it.json",
-    "total": 1665,
-    "index": 1473,
+    "total": 1673,
+    "index": 1481,
     "id_item": "their_lv_1000_it",
     "english": "their",
     "list_mean": [
@@ -1507,8 +1704,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/theme_lv_1000_it.json",
-    "total": 1665,
-    "index": 1474,
+    "total": 1673,
+    "index": 1482,
     "id_item": "theme_lv_1000_it",
     "english": "theme",
     "list_mean": [
@@ -1524,8 +1721,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/them_lv_1000_it.json",
-    "total": 1665,
-    "index": 1475,
+    "total": 1673,
+    "index": 1483,
     "id_item": "them_lv_1000_it",
     "english": "them",
     "list_mean": [
@@ -1538,8 +1735,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/then_lv_1000_it.json",
-    "total": 1665,
-    "index": 1476,
+    "total": 1673,
+    "index": 1484,
     "id_item": "then_lv_1000_it",
     "english": "then",
     "list_mean": [
@@ -1556,8 +1753,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/there_lv_1000_it.json",
-    "total": 1665,
-    "index": 1477,
+    "total": 1673,
+    "index": 1485,
     "id_item": "there_lv_1000_it",
     "english": "there",
     "list_mean": [
@@ -1576,8 +1773,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/they_lv_1000_it.json",
-    "total": 1665,
-    "index": 1478,
+    "total": 1673,
+    "index": 1486,
     "id_item": "they_lv_1000_it",
     "english": "they",
     "list_mean": [
@@ -1591,8 +1788,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/the_lv_1000_it.json",
-    "total": 1665,
-    "index": 1479,
+    "total": 1673,
+    "index": 1487,
     "id_item": "the_lv_1000_it",
     "english": "the",
     "list_mean": [
@@ -1606,8 +1803,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thick_lv_1000_it.json",
-    "total": 1665,
-    "index": 1480,
+    "total": 1673,
+    "index": 1488,
     "id_item": "thick_lv_1000_it",
     "english": "thick",
     "list_mean": [
@@ -1632,8 +1829,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thing_lv_1000_it.json",
-    "total": 1665,
-    "index": 1481,
+    "total": 1673,
+    "index": 1489,
     "id_item": "thing_lv_1000_it",
     "english": "thing",
     "list_mean": [
@@ -1655,8 +1852,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/think_lv_1000_it.json",
-    "total": 1665,
-    "index": 1482,
+    "total": 1673,
+    "index": 1490,
     "id_item": "think_lv_1000_it",
     "english": "think",
     "list_mean": [
@@ -1673,8 +1870,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thin_lv_1000_it.json",
-    "total": 1665,
-    "index": 1483,
+    "total": 1673,
+    "index": 1491,
     "id_item": "thin_lv_1000_it",
     "english": "thin",
     "list_mean": [
@@ -1701,8 +1898,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/third_lv_1000_it.json",
-    "total": 1665,
-    "index": 1484,
+    "total": 1673,
+    "index": 1492,
     "id_item": "third_lv_1000_it",
     "english": "third",
     "list_mean": [
@@ -1719,8 +1916,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/this_lv_1000_it.json",
-    "total": 1665,
-    "index": 1485,
+    "total": 1673,
+    "index": 1493,
     "id_item": "this_lv_1000_it",
     "english": "this",
     "list_mean": [
@@ -1735,8 +1932,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thoughtful_lv_1000_it.json",
-    "total": 1665,
-    "index": 1486,
+    "total": 1673,
+    "index": 1494,
     "id_item": "thoughtful_lv_1000_it",
     "english": "thoughtful",
     "list_mean": [
@@ -1751,8 +1948,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thought_lv_1000_it.json",
-    "total": 1665,
-    "index": 1487,
+    "total": 1673,
+    "index": 1495,
     "id_item": "thought_lv_1000_it",
     "english": "thought",
     "list_mean": [
@@ -1769,8 +1966,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/though_lv_1000_it.json",
-    "total": 1665,
-    "index": 1488,
+    "total": 1673,
+    "index": 1496,
     "id_item": "though_lv_1000_it",
     "english": "though",
     "list_mean": [
@@ -1784,8 +1981,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thousand_lv_1000_it.json",
-    "total": 1665,
-    "index": 1489,
+    "total": 1673,
+    "index": 1497,
     "id_item": "thousand_lv_1000_it",
     "english": "thousand",
     "list_mean": [
@@ -1799,8 +1996,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/threaten_lv_1000_it.json",
-    "total": 1665,
-    "index": 1490,
+    "total": 1673,
+    "index": 1498,
     "id_item": "threaten_lv_1000_it",
     "english": "threaten",
     "list_mean": [
@@ -1819,8 +2016,8 @@
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/three_lv_1000_it.json",
-    "total": 1665,
-    "index": 1491,
+    "total": 1673,
+    "index": 1499,
     "id_item": "three_lv_1000_it",
     "english": "three",
     "list_mean": [
@@ -1831,168 +2028,5 @@
     "cau_en": "three times",
     "cau_vn": "ba lần",
     "hash_code_list_mean": "-542606408"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/throat_lv_1000_it.json",
-    "total": 1665,
-    "index": 1492,
-    "id_item": "throat_lv_1000_it",
-    "english": "throat",
-    "list_mean": [
-      "cổ; cổ họng",
-      "cổ họng, thanh quản, hầu (đường đi ở cổ qua đó thức ăn xuống dạ dày và không khí lọt vào phổi)",
-      "lối đi hẹp; lỗ hẹp; cổ (chai); cửa (lò cao)",
-      "khúc sông hẹp (giữa hai vách đá)"
-    ],
-    "cau_en": "a fish bone has stuck in my throat",
-    "cau_vn": "một chiếc xương cá mắc trong họng tôi",
-    "hash_code_list_mean": "217908103"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/through_lv_1000_it.json",
-    "total": 1665,
-    "index": 1493,
-    "id_item": "through_lv_1000_it",
-    "english": "through",
-    "list_mean": [
-      "qua, xuyên qua, suốt",
-      "đến cùng; hết; từ đầu đến cuối",
-      "(từ Mỹ, nghĩa Mỹ) cho tới và gồm cả; cho đến",
-      "nhờ, bởi, qua (chỉ ra tác nhân, phương tiện)",
-      "do, vì (chỉ ra nguyên nhân, lý do)",
-      "lọt, lẻn; đi qua (một hàng rào chắn), né tránh (một sự kiểm soát do pháp luật đặt ra)",
-      "từ bên này tới bên kia của cái gì",
-      "qua, xuyên qua, suốt, từ đầu đến cuối",
-      "đi qua một hàng rào chắn, né tránh một sự kiểm soát do pháp luật đặt ra",
-      "suốt",
-      "có liên lạc qua dây nói",
-      "(từ Mỹ, nghĩa Mỹ) nói xong (sẵn sàng chấm dứt một cuộc nói chuyện điện thoại)",
-      "đến cùng, hết"
-    ],
-    "cau_en": "we've been friends so long I know you through and through",
-    "cau_vn": "chúng ta thân nhau đã lâu, nên tôi biết anh rất rõ",
-    "hash_code_list_mean": "1853915139"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/throw_lv_1000_it.json",
-    "total": 1665,
-    "index": 1494,
-    "id_item": "throw_lv_1000_it",
-    "english": "throw",
-    "list_mean": [
-      "sự ném, sự vứt, sự quăng, sự liệng",
-      "khoảng ném xa",
-      "(thể dục,thể thao) sự vật ngã, sự quăng xuống đất",
-      "(địa lý,địa chất) xê dịch của phay",
-      "ném, vứt, quăng, quẳng, tung, liệng, lao",
-      "(thể dục,thể thao) vật ngã",
-      "(nghĩa bóng) ném vào, mang vào, đưa vào",
-      "(nghĩa bóng) làm cho rơi vào, bỗng đẩy vào (một tình trạng)",
-      "mặc, cởi (quần áo..) nhanh, cẩu thả",
-      "lột (da); thay (lông)",
-      "đẻ (thỏ, chim bồ câu...)",
-      "xe (tơ)",
-      "nắn hình, trau (đồ gốm trên bàn quay)",
-      "ném, quăng",
-      "chơi súc sắc"
-    ],
-    "cau_en": "to throw all one's energies into an undertaking",
-    "cau_vn": "đem hết sức mình vào một việc gì",
-    "hash_code_list_mean": "118262232"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thrust_lv_1000_it.json",
-    "total": 1665,
-    "index": 1495,
-    "id_item": "thrust_lv_1000_it",
-    "english": "thrust",
-    "list_mean": [
-      "sự đẩy mạnh, sự xô đẩy",
-      "nhát đâm (dao găm, mũi kiếm)",
-      "(quân sự) cuộc tấn công mạnh (để chọc thủng phòng tuyến), sự đột phá, sự thọc sâu",
-      "sự công kích (trong cuộc tranh luận)",
-      "(thể dục,thể thao) sự tấn công thình lình",
-      "sức đè, sức ép (giữa các bộ phận trong một cơ cấu)",
-      "sự đè gãy (cột chống trong mỏ than)",
-      "đẩy, ấn mạnh, tống, thọc",
-      "nhét, giúi cái gì vào tay ai",
-      "bắt phải theo, bắt nhận",
-      "xô đẩy, đẩy mạnh, ấn mạnh",
-      "( + into , through... ) chui, len",
-      "(thể dục,thể thao) đâm một nhát"
-    ],
-    "cau_en": "to thrust the needle of the syringe into the arm",
-    "cau_vn": "thọc kim tiêm vào cánh tay",
-    "hash_code_list_mean": "1180048389"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thumb_lv_1000_it.json",
-    "total": 1665,
-    "index": 1496,
-    "id_item": "thumb_lv_1000_it",
-    "english": "thumb",
-    "list_mean": [
-      "ngón tay cái",
-      "phần của găng tay bọc ngón tay cái",
-      "giở, lật (trang sách)",
-      "làm bẩn, làm mòn (cuốn sách.. vì giở nhiều)",
-      "vận dụng vụng về, điều khiển vụng về"
-    ],
-    "cau_en": "thumbing through the dictionary",
-    "cau_vn": "giở qua các trang tự điển",
-    "hash_code_list_mean": "1141285123"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thunder_lv_1000_it.json",
-    "total": 1665,
-    "index": 1497,
-    "id_item": "thunder_lv_1000_it",
-    "english": "thunder",
-    "list_mean": [
-      "sấm, sét; tiếng sấm, tiếng sét",
-      "tiếng ầm vang như sấm",
-      "sự chỉ trích; sự đe doạ",
-      "nổi sấm, sấm động, ầm ầm tiếng sấm",
-      "ầm ầm như sấm, gây ra tiếng động như sấm; vang to",
-      "la lối, nạt nộ, chửi mắng; lớn tiếng (đe doạ..)"
-    ],
-    "cau_en": "to fear the thunders of the press",
-    "cau_vn": "sợ những lời chỉ trích của báo chí",
-    "hash_code_list_mean": "-1401247390"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/thus_lv_1000_it.json",
-    "total": 1665,
-    "index": 1498,
-    "id_item": "thus_lv_1000_it",
-    "english": "thus",
-    "list_mean": [
-      "theo cách đó, như vậy, như thế",
-      "do đó, theo đó, vì thế, vì vậy",
-      "đến như thế, tới mức đó"
-    ],
-    "cau_en": "to calculate the area of the triangle thus formed",
-    "cau_vn": "tính diện tích của hình tam giác đã được tạo như thế",
-    "hash_code_list_mean": "461982489"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/lv_1000_it_1/raw/main/tidy_lv_1000_it.json",
-    "total": 1665,
-    "index": 1499,
-    "id_item": "tidy_lv_1000_it",
-    "english": "tidy",
-    "list_mean": [
-      "sạch sẽ, ngăn nắp, gọn gàng, có trật tự",
-      "có thói quen ngăn nắp, sạch sẽ",
-      "(thông tục) khá nhiều, khá lớn; kha khá (nhất là về một số tiền)",
-      "(tiếng địa phương) khá khoẻ",
-      "( (thường) + up ) làm cho sạch sẽ, dọn dẹp, sắp xếp gọn gàng, xếp sắp ngăn nắp",
-      "( + up ) sắp xếp sửa sang cho gọn gàng, dọn dẹp cho sạch sẽ ngăn nắp",
-      "thùng chứa vật linh tinh, cái đựng đồ vặt vãnh; giỏ rác",
-      "vải phủ ghế (cho khỏi bẩn)"
-    ],
-    "cau_en": "to have a tidy mind",
-    "cau_vn": "có đầu óc minh mẫn",
-    "hash_code_list_mean": "-461861867"
   }
 ]
